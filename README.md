@@ -4,7 +4,7 @@ After increasing technical frustrations with maintaining [my old blog](https://w
 
 Maybe I wasn't diligent in troubleshooting the issues I faced along the way; that said, I came to conclude that I was spending an awful lot of time working with its technologies vs writing on the platform (the latter having been the very reason for the former, all along).
 
-This renewed blog, in particular, is actually a clone of Jack Leslie's open source [blog](https://jackleslie.dev/), which I really admired and wanted to extend as the next version of [jinyoung.xyz](https://jinyoung.xyz). I came across Jack's blog through a mutual friend and immediately felt captivated by its simplicity and elegance.
+This renewed blog, in particular, is actually a fork of Jack Leslie's open source [blog](https://jackleslie.dev/), which I really admired and wanted to extend as the next version of [jinyoung.xyz](https://jinyoung.xyz). I came across Jack's blog through a mutual friend and immediately felt captivated by its simplicity and elegance.
 
 It's built with [Next.js](https://nextjs.org/), a React framework that supports Server Side Rendering (SSR) for optimal performance and SEO. It's deployed on Vercel, following its [compelling documentation](https://nextjs.org/docs/deployment#managed-nextjs-with-vercel).
 
