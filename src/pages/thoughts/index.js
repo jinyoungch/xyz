@@ -2,9 +2,9 @@ import React from 'react';
 import { Converter } from 'showdown';
 import { Layout, Post } from '../../components';
 
-export default function Blog({ posts = [] }) {
+export default function ThoughtsRouteIndexPage({ posts = [] }) {
   return (
-    <Layout siteTitle="Jack Leslie / Blog" pageTitle="Blog">
+    <Layout siteTitle="jinyoung / thoughts" pageTitle="thoughts">
       {posts.map(({ title, date, tldr, slug }) => (
         <Post key={slug} title={title} date={date} slug={slug} isTldr>
           {tldr}
@@ -15,6 +15,7 @@ export default function Blog({ posts = [] }) {
 }
 
 export async function getStaticProps() {
+  //posts refer to entries saved in root:/<route (eg. thoughts or code)>/posts
   const posts = ((context) => {
     const keys = context.keys();
     const values = keys.map(context);
@@ -30,12 +31,13 @@ export async function getStaticProps() {
         title,
         date,
         tldr,
-        slug,
+        slug
       };
     });
 
+    //this return is where posts are sorted according to latest to earliest:
     return data.sort((a, b) => new Date(b.date) - new Date(a.date));
-  })(require.context('../../../posts', true, /\.md$/));
+  })(require.context('../../../posts/thoughts', true, /\.md$/));
 
   return {
     props: {

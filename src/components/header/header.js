@@ -13,7 +13,7 @@ export default function Header({ title = '' }) {
         <hgroup className={styles.path}>
           <Link href="/">
             <a>
-              <h1 className={styles.pathRoot}>Jack Leslie</h1>
+              <h1 className={styles.pathRoot}>jinyoung</h1>
             </a>
           </Link>
           <Link href={`/${title.toLowerCase()}`}>
@@ -25,7 +25,7 @@ export default function Header({ title = '' }) {
       ) : (
         <Link href="/">
           <a>
-            <h1>Jack Leslie</h1>
+            <h1>jinyoung</h1>
           </a>
         </Link>
       )}

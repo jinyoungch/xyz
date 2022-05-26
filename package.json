@@ -1,8 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "dev": "next dev -H 0.0.0.0",
     "build": "next build",
+    "dev": "next build && next dev -H 0.0.0.0",
     "start": "next start",
     "test": "jest",
     "test:watch": "jest --watch",

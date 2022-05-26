@@ -2,6 +2,15 @@
   margin-bottom: 2em;
 }
 
+a .hack,
+a .hack:visited {
+  color: var(--midground);
+  font-weight: 500;
+  transition: var(--transition);
+  text-decoration-line: underline;
+  text-underline-position: under;
+}
+
 @media only screen and (max-width: 500px) {
   .post {
     margin-top: 3em;

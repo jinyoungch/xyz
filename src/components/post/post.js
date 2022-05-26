@@ -6,14 +6,28 @@ export default function Post({
   title = '',
   date = '',
   isTldr = false,
+  isStack = false,
   slug = '/',
   children = null,
+  hackathon = 'no',
+  live_demo = 'no'
 }) {
+
+  let hackathonUrl;
+  let hackathonName;
+
+  if (hackathon) {
+    [hackathonName, hackathonUrl] = hackathon.split(" ")
+  }
+
   return (
     <section className={styles.post}>
       <hgroup>
-        {isTldr ? (
-          <Link href="/blog/[slug]" as={`/blog/${slug}`}>
+        {isTldr || isStack ? (
+          <Link 
+            href={isTldr ? "/thoughts/[slug]" : `${live_demo}`} 
+            as={isTldr ? `/thoughts/${slug}` : `${live_demo}`}
+          >
             <a>
               <h2>{title}</h2>
             </a>
@@ -23,17 +37,27 @@ export default function Post({
         )}
         <h3>{date}</h3>
       </hgroup>
-      {isTldr ? (
+      {isTldr || isStack ? (
         <p>
-          <b>tl;dr: </b>
-          {children}{' '}
-          <Link href="/blog/[slug]" as={`/blog/${slug}`}>
-            <a>Read more</a>
-          </Link>
+          <b>{isTldr ? `tl;dr: ` : `stack: `}</b>
+          {children}
+          <br />
+          {isTldr ? (
+            <Link href="/thoughts/[slug]" as={`/thoughts/${slug}`}>
+              <a>read more</a>
+            </Link>
+          ) : (
+            <p></p>
+            )}
         </p>
-      ) : (
-        <div dangerouslySetInnerHTML={{ __html: children }} />
+      ) : ( 
+      <div dangerouslySetInnerHTML={{ __html: children }} />
       )}
+      {hackathon !== 'no' ? (
+      <>
+        <code>hackathon</code>
+      </>
+      ) : null}
     </section>
   );
 }

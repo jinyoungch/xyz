@@ -7,15 +7,16 @@ import '../styles/syntax.css';
 
 export default function MyApp({ Component, pageProps }) {
   return (
-    <ThemeProvider defaultTheme="system" disableTransitionOnChange>
+    <ThemeProvider defaultTheme="dark" disableTransitionOnChange>
       <Head>
         <meta charSet="utf-8" />
-        <meta name="description" content="Jack Leslie personal website" />
-        <meta name="author" content="Jack Leslie" />
+        <meta name="description" content="Jin Young Choi Blog/Portfolio" />
+        <meta name="author" content="Jin Young Choi" />
         <meta property="og:image" content="/favicon.ico" />
-        <meta property="og:description" content="Graduate software engineer at Wise" />
-        <meta property="og:title" content="Jack Leslie" />
+        <meta property="og:description" content="software engineer based in nyc" />
+        <meta property="og:title" content="jinyoung choi" />
         <link rel="icon" href="/favicon.ico" />
+        <base target="_blank" />
       </Head>
       <Component {...pageProps} />
     </ThemeProvider>

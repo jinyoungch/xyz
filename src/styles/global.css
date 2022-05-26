@@ -8,10 +8,12 @@
   --foreground: var(--black);
   --midground: var(--black-grey);
   --background: var(--white);
-  --wise: #00b9ff;
-  --blog: #999;
-  --gmail: #EA4335;
-  --keybase: #ff6f21;
+  --linkedin: #00b9ff;
+  --babbel: #ff6f21;
+  --thoughts: rgb(72, 167, 0);
+  --github: #5862b1;
+  --email: #8154a2;
+  --dev: #cdd327;
   --transition:
     color 0.2s ease,
     background-color 0.2s ease,
@@ -42,6 +44,9 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+main {
 }
 
 h1 {
@@ -124,24 +129,49 @@ blockquote {
   padding-inline-start: 40px;
 }
 
-.wise,
-.wise::selection {
-  text-decoration-color: var(--wise);
+.linkedin,
+.linkedin::selection {
+  text-decoration-color: var(--linkedin);
 }
 
-.blog,
-.blog::selection {
-  text-decoration-color: var(--blog);
+.thoughts,
+.thoughts::selection {
+  text-decoration-color: var(--thoughts);
 }
 
-.gmail,
-.gmail::selection {
-  text-decoration-color: var(--gmail);
+.github,
+.github::selection {
+  text-decoration-color: var(--github);
 }
 
-.keybase,
-.keybase::selection {
-  text-decoration-color: var(--keybase);
+.email,
+.email::selection {
+  text-decoration-color: var(--email);
+}
+
+.dev,
+.dev::selection {
+  text-decoration-color: var(--dev);
+}
+
+.babbel,
+.babbel::selection {
+  text-decoration-color: var(--babbel);
+}
+
+.profile-photo {
+  border-radius: 3%;
+}
+
+.center-photo {
+  display: flex;
+  justify-content: center;
+  margin: 35px 0px 45px 0px;
+}
+
+.return-to-main {
+  display: flex;
+  justify-content: center;
 }
 
 @media only screen and (max-width: 500px) {

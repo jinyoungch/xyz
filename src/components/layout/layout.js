@@ -5,14 +5,15 @@ import styles from './layout.module.css';
 
 export default function Layout({ siteTitle = '', pageTitle = '', children = null }) {
   return (
-    <main className={styles.layout}>
-      <Head>
-        <title>{siteTitle}</title>
-      </Head>
+    <div className='center-main'>
+      <main className={styles.layout}>
+        <Head>
+          <title>{siteTitle}</title>
+        </Head>
 
-      <Header title={pageTitle} />
-
-      {children}
-    </main>
+        <Header title={pageTitle} />
+        {children}
+      </main>
+    </div>
   );
 }

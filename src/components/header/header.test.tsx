@@ -2,7 +2,7 @@ import React from 'react';
 import { render, screen } from '@testing-library/react';
 import Header from './header';
 
-const defaultTitle = 'Jack Leslie';
+const defaultTitle = 'jinyoung';
 
 test('renders home page name as title by default', () => {
   render(<Header />);
@@ -11,8 +11,8 @@ test('renders home page name as title by default', () => {
 });
 
 test('renders blog page name with preceding slash', () => {
-  const title = 'Blog';
-  const renderedTitle = '/ Blog';
+  const title = 'Thoughts';
+  const renderedTitle = '/ thoughts';
   render(<Header title={title} />);
   expect(screen.getByText(defaultTitle)).toBeInTheDocument();
   expect(screen.getByText(renderedTitle)).toBeInTheDocument();
