@@ -26,7 +26,7 @@ Despite its [unforgiving syntax](https://javascriptwtf.com/), I've got to admit 
 
 Sure, Python and JavaScript are both high-level, interpreted languages and, many times, either can be used to solve similar algorithmic challenges. 
 
-However, the true power of JavaScript is that it is *the* language that powers [almost all software](https://w3techs.com/technologies/details/cp-javascript/) that is accessed on the internet.
+However, the true power of JavaScript is that it is *the* language that powers [almost all software](https://w3techs.com/technologies/details/cp-javascript/) that is accessed on the internet, through its event-driven model.
 
 Rather than trying to translate my existing programming knowledge onto this quirky new language, I feel like learning JavaScript has been nothing short of exploring a whole new paradigm.
 

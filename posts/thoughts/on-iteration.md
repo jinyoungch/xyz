@@ -26,7 +26,7 @@ While the goal I had for my sixth month mark was to apply to a competitive compu
 
 One particular [blog](https://colorfulcodesblog.wordpress.com/2016/08/21/recurse-center-application-process/comment-page-1/) really consolidated my rationale, and encouraged me to keep seeking for things I otherwise desire in terms of supplementing my self-guided career change. 
 
-As I noted in my previous entry [On Direction](https://www.jinyoung.xyz/blog/on-direction), something I've been longing for has been the sense of peer-support that I often took for granted in my traditional schooling. 
+As I noted in my previous entry [On Direction](https://www.jinyoung.xyz/code/on-direction), something I've been longing for has been the sense of peer-support that I often took for granted in my traditional schooling. 
 
 Now, learning **any** discipline in a self-taught manner can make a lonely experience, especially without a network of colleagues with whom to bounce ideas with and remain accountable to. 
 
@@ -36,12 +36,12 @@ Many times I've thought about applying for a bootcamp since the email marketing 
 
 *We offer an accessible Income Share Agreement (ISA) tuition model with the unique opportunity to **learn from the experts** and **accelerate** a programming career in just a few months (read: a feat that would otherwise be pretty dang hard if attempted alone).* 
 
-*-most boot camps* 
+*-most bootcamps* 
 <br>
 
 Thankfully, I see myself gradually returning to the conclusion that I can achieve those two factors if I intentionally seek them out through the very kind of resourcefulness and drive that has defined my self-guided journey up until this point. 
 
-Daniel Kahneman, a renowned behavioural economist, talked about a deliberate, 'slow-cooked' type of thinking as performed by [System 2](https://youtu.be/PirFrDVRBo4) of your mental faculties, as opposed to its irrational counterpart-- System 1. The former type of thinking requires one to be disciplined, to fight the urge to succumb to the latter type.  
+Daniel Kahneman, a renowned behavioural economist, talked about a deliberate, 'slow-cooked' type of thinking as performed by [System 2](https://youtu.be/PirFrDVRBo4) of your mental faculties, as opposed to its irrational counterpart-- System 1. The former type of thinking requires one to be disciplined, to fight the urge to succumb to the latter type which dominates our every-day decision-making processes.
 
 Writing this entry is a conscious step towards continuing to lead a more deliberate life, and I hope that my writing will always reflect this particular life philosophy I strive to live by. 
 

@@ -61,6 +61,6 @@ As a visitor accessing [jinyoung.xyz](https://www.jinyoung.xyz/), you will first
 
 [click here for illustration](https://photos.app.goo.gl/iZwR2BmCakMnrqrz9)
 
-Looking back, the past month of learning JavaScript has been the toughest personal learning curve in my programming journey (more on this in my previous entry, [On Patience](https://www.jinyoung.xyz/blog/on-patience)). 
+Looking back, the past month of learning JavaScript has been the toughest personal learning curve in my programming journey (more on this in my previous entry, [On Patience](https://www.jinyoung.xyz/code/on-patience)). 
 
 I cannot be more excited at just how much more I'll be able to do with programming, with my growing understanding of JavaScript. :)
