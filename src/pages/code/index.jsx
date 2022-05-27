@@ -6,7 +6,7 @@ export default function CodeRouteIndexPage({ posts = [] }) {
   return (
     <Layout siteTitle="jinyoung / code" pageTitle="code">
       <p>Some <code>hackathon</code> projects were developed in collaboration.</p>
-      {posts.map(({ title, date, stack, slug, hackathon, live_demo }) => (
+      {posts.map(({ title, date, stack, slug, hackathon, live_demo, projectSummary }) => (
         <Post 
           key={slug} 
           title={title} 
@@ -14,7 +14,9 @@ export default function CodeRouteIndexPage({ posts = [] }) {
           slug={slug} 
           hackathon={hackathon} 
           live_demo={live_demo}
-          isCodeEntry>
+          projectSummary={projectSummary}
+          isCodeEntry
+        >
           {stack}
         </Post>
       ))}
@@ -32,7 +34,8 @@ export async function getStaticProps() {
       const slug = key.replace(/^.*[\\/]/, '').slice(0, -3);
       const content = values[index];
       const converter = new Converter({ metadata: true });
-      converter.makeHtml(content.default);
+      const body = converter.makeHtml(content.default);
+      const projectSummary = body;
       const { title, date, stack, hackathon, live_demo } = converter.getMetadata();
 
       return {
@@ -42,6 +45,7 @@ export async function getStaticProps() {
         slug,
         hackathon,
         live_demo,
+        projectSummary,
       };
     });
 

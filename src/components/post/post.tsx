@@ -1,5 +1,8 @@
+// External Imports
 import React from 'react';
 import Link from 'next/link';
+
+// Internal Imports
 import styles from './post.module.css';
 
 export default function Post({
@@ -12,6 +15,7 @@ export default function Post({
   hackathon = 'no',
   live_demo = 'no',
   readingMins = 0,
+  projectSummary = ''
 }) {
 
   let hackathonUrl;
@@ -43,18 +47,21 @@ export default function Post({
           <b>{isThoughtsEntry ? `tl;dr: ` : `stack: `}</b>
           {children}
           <br />
-          {isThoughtsEntry ? (
+          {isThoughtsEntry && (
             <Link href="/thoughts/[slug]" as={`/thoughts/${slug}`}>
               <a>read more</a>
             </Link>
-          ) : (
-            <p></p>
-            )}
+          )}
+          {isCodeEntry && (
+            <>
+              <div dangerouslySetInnerHTML={{ __html: projectSummary }} />
+            </>
+          )}
         </p>
       ) : ( 
       <div dangerouslySetInnerHTML={{ __html: children }} />
       )}
-      {hackathon !== 'no' ? (
+      {hackathon !== 'no' && isCodeEntry ? (
       <>
         <code>hackathon</code>
       </>
