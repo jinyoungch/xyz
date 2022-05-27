@@ -5,13 +5,13 @@ import styles from './post.module.css';
 export default function Post({
   title = '',
   date = '',
-  isTldr = false,
-  isStack = false,
+  isThoughtsEntry = false,
+  isCodeEntry = false,
   slug = '/',
   children = null,
   hackathon = 'no',
   live_demo = 'no',
-  readingTime = 0,
+  readingMins = 0,
 }) {
 
   let hackathonUrl;
@@ -24,10 +24,10 @@ export default function Post({
   return (
     <section className={styles.post}>
       <hgroup>
-        {isTldr || isStack ? (
+        {isThoughtsEntry || isCodeEntry ? (
           <Link 
-            href={isTldr ? "/thoughts/[slug]" : `${live_demo}`} 
-            as={isTldr ? `/thoughts/${slug}` : `${live_demo}`}
+            href={isThoughtsEntry ? "/thoughts/[slug]" : `${live_demo}`} 
+            as={isThoughtsEntry ? `/thoughts/${slug}` : `${live_demo}`}
           >
             <a>
               <h2>{title}</h2>
@@ -36,14 +36,14 @@ export default function Post({
         ) : (
           <h2>{title}</h2>
         )}
-        <h3 className='date'>{date} {isTldr ? `| ${readingTime} mins` : null}</h3>
+        <h3 className='date'>{date} {readingMins !== 0 ? `| ${readingMins} mins` : null}</h3>
       </hgroup>
-      {isTldr || isStack ? (
+      {isThoughtsEntry || isCodeEntry ? (
         <p>
-          <b>{isTldr ? `tl;dr: ` : `stack: `}</b>
+          <b>{isThoughtsEntry ? `tl;dr: ` : `stack: `}</b>
           {children}
           <br />
-          {isTldr ? (
+          {isThoughtsEntry ? (
             <Link href="/thoughts/[slug]" as={`/thoughts/${slug}`}>
               <a>read more</a>
             </Link>

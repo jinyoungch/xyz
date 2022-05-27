@@ -14,7 +14,7 @@ export default function CodeRouteIndexPage({ posts = [] }) {
           slug={slug} 
           hackathon={hackathon} 
           live_demo={live_demo}
-          isStack>
+          isCodeEntry>
           {stack}
         </Post>
       ))}

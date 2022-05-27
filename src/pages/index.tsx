@@ -46,10 +46,6 @@ export default function Index() {
           <a href="https://github.com/jinyoungch0i" className="github">
             github
           </a>
-          {/* or{' '}
-          <a href="https://linkedin.com/in/jinyoungch0i" className="linkedin">
-            linkedin
-          </a> */}
           .
         </p>
         <p>

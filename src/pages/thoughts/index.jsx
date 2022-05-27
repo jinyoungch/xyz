@@ -1,12 +1,13 @@
 import React from 'react';
 import { Converter } from 'showdown';
 import { Layout, Post } from '../../components';
+const readingTime = require('reading-time');
 
 export default function ThoughtsRouteIndexPage({ posts = [] }) {
   return (
     <Layout siteTitle="jinyoung / thoughts" pageTitle="thoughts">
-      {posts.map(({ title, date, tldr, slug }) => (
-        <Post key={slug} title={title} date={date} slug={slug} isTldr>
+      {posts.map(({ title, date, tldr, slug, readingMins }) => (
+        <Post key={slug} title={title} date={date} slug={slug} readingMins={readingMins} isThoughtsEntry>
           {tldr}
         </Post>
       ))}
@@ -24,14 +25,19 @@ export async function getStaticProps() {
       const slug = key.replace(/^.*[\\/]/, '').slice(0, -3);
       const content = values[index];
       const converter = new Converter({ metadata: true });
-      converter.makeHtml(content.default);
+      const body = converter.makeHtml(content.default);
       const { title, date, tldr } = converter.getMetadata();
+
+      const { minutes } = readingTime(body);
+      const readingMins = Math.round(minutes);
+      console.log(`reading time for [${title}]:`, `${readingMins}mins`)
 
       return {
         title,
         date,
         tldr,
-        slug
+        slug,
+        readingMins
       };
     });
 

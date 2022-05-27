@@ -1,13 +1,18 @@
+// External Imports
 import React from 'react';
 import { Converter } from 'showdown';
 import showdownHighlight from 'showdown-highlight';
-import { Layout, Post } from '../../components';
 import Link from 'next/link';
+const readingTime = require('reading-time');
 
-export default function ThoughtsPage({ title = '', date = '', body = '' }) {
+// Internal Imports:
+import { Layout, Post } from '../../components';
+
+
+export default function ThoughtsPage({ title = '', date = '', body = '', readingMins = 0, }) {
   return (
     <Layout siteTitle={title} pageTitle="thoughts">
-      <Post title={title} date={date}>
+      <Post title={title} date={date} readingMins={readingMins}> 
         {body}
       </Post>
       <p className='return-to-main'>
@@ -24,14 +29,16 @@ export async function getStaticProps({ ...ctx }) {
   const body = converter.makeHtml(content.default);
   const { title, date } = converter.getMetadata();
 
-  //markdown file converted to html (type: string):
-  console.log(body)
+  const { minutes } = readingTime(body);
+  const readingMins = Math.round(minutes);
+  console.log(`reading time for [${title}]:`, `${readingMins}mins`)
 
   return {
     props: {
       title,
       date,
       body,
+      readingMins,
     },
   };
 }
