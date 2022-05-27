@@ -5,7 +5,6 @@ import styles from './layout.module.css';
 
 export default function Layout({ siteTitle = '', pageTitle = '', children = null }) {
   return (
-    <div className='center-main'>
       <main className={styles.layout}>
         <Head>
           <title>{siteTitle}</title>
@@ -14,6 +13,5 @@ export default function Layout({ siteTitle = '', pageTitle = '', children = null
         <Header title={pageTitle} />
         {children}
       </main>
-    </div>
   );
 }

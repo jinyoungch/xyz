@@ -5,6 +5,7 @@
   --white-grey: rgba(243, 241, 240, 0.91);
   --black: #111;
   --black-grey: #222;
+  --grey: #716a66;
   --foreground: var(--black);
   --midground: var(--black-grey);
   --background: var(--white);
@@ -46,9 +47,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-main {
-}
-
 h1 {
   font-family: var(--font);
   color: var(--foreground);
@@ -78,6 +76,10 @@ h3 {
   margin-block-start: 0;
   margin-block-end: 0;
   line-height: 1rem;
+}
+
+.date {
+  color: var(--grey);
 }
 
 p {

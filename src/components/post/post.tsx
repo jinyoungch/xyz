@@ -35,7 +35,7 @@ export default function Post({
         ) : (
           <h2>{title}</h2>
         )}
-        <h3>{date}</h3>
+        <h3 className='date'>{date}</h3>
       </hgroup>
       {isTldr || isStack ? (
         <p>

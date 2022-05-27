@@ -11,6 +11,10 @@ a .hack:visited {
   text-underline-position: under;
 }
 
+.date {
+  color: var(--grey);
+}
+
 @media only screen and (max-width: 500px) {
   .post {
     margin-top: 3em;
