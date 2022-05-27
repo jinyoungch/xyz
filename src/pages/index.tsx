@@ -18,7 +18,7 @@ export default function Index() {
       </div>
       <main>
         <p>
-          software engineer working on user growth at{' '}
+          software engineer working on user growth {' '}
           <a 
             href="https://babbel.com" 
             className="babbel"
