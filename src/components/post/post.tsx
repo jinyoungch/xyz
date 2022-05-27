@@ -10,7 +10,8 @@ export default function Post({
   slug = '/',
   children = null,
   hackathon = 'no',
-  live_demo = 'no'
+  live_demo = 'no',
+  readingTime = 0,
 }) {
 
   let hackathonUrl;
@@ -35,7 +36,7 @@ export default function Post({
         ) : (
           <h2>{title}</h2>
         )}
-        <h3 className='date'>{date}</h3>
+        <h3 className='date'>{date} {isTldr ? `| ${readingTime} mins` : null}</h3>
       </hgroup>
       {isTldr || isStack ? (
         <p>

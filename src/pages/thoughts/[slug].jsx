@@ -24,6 +24,7 @@ export async function getStaticProps({ ...ctx }) {
   const body = converter.makeHtml(content.default);
   const { title, date } = converter.getMetadata();
 
+  //markdown file converted to html (type: string):
   console.log(body)
 
   return {
