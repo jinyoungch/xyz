@@ -12,9 +12,10 @@ export default function MyApp({ Component, pageProps }) {
         <meta charSet="utf-8" />
         <meta name="description" content="Jin Young Choi Blog/Portfolio" />
         <meta name="author" content="Jin Young Choi" />
-        <meta property="og:image" content="/favicon.ico" />
-        <meta property="og:description" content="software engineer based in nyc" />
-        <meta property="og:title" content="jinyoung choi" />
+        <meta name="image" property="og:image" content="/bean.jpeg" />
+        <meta name="description" property="og:description" content="software engineer based in nyc" />
+        <meta property="og:type" content="website" />
+        <meta name="title" property="og:title" content="jinyoung choi" />
         <link rel="icon" href="/favicon.ico" />
         <base target="_blank" />
       </Head>
