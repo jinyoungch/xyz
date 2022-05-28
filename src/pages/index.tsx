@@ -49,7 +49,7 @@ export default function Index() {
           .
         </p>
         <p>
-          currently based in nyc. 🗽
+          📍 currently based in nyc.
         </p>
       </main>
     </Layout>
