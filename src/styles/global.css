@@ -11,10 +11,10 @@
   --background: var(--white);
   --linkedin: #00b9ff;
   --babbel: #ff6f21;
-  --thoughts: rgb(72, 167, 0);
+  --thoughts: #cdd327;
   --github: #5862b1;
   --email: #8154a2;
-  --dev: #cdd327;
+  --dev: rgb(72, 167, 0);
   --transition:
     color 0.2s ease,
     background-color 0.2s ease,
@@ -70,7 +70,7 @@ h2 {
 kbd {
   font-size: 1.8rem;
   letter-spacing: -0.25em;
-  color: var(--thoughts);
+  color: var(--dev);
 }
 
 h3 {
