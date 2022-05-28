@@ -33,9 +33,15 @@ export default function Post({
             href={isThoughtsEntry ? "/thoughts/[slug]" : `${live_demo}`} 
             as={isThoughtsEntry ? `/thoughts/${slug}` : `${live_demo}`}
           >
-            <a>
+            {isCodeEntry ? (
+              <a>
+                <h2>{title}<kbd> ↵</kbd></h2>
+              </a>
+            ): (
+              <a>
               <h2>{title}</h2>
             </a>
+            )}
           </Link>
         ) : (
           <h2>{title}</h2>

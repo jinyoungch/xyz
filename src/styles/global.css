@@ -67,6 +67,12 @@ h2 {
   margin-block-end: 0;
 }
 
+kbd {
+  font-size: 1.8rem;
+  letter-spacing: -0.25em;
+  color: var(--thoughts);
+}
+
 h3 {
   font-family: var(--font);
   color: var(--foreground);
@@ -190,6 +196,11 @@ blockquote {
   h3 {
     font-size: 1rem;
     line-height: 1.9rem;
+  }
+
+  kbd {
+    font-size: 1.20rem;
+    letter-spacing: -0.4em;
   }
 
   p {
