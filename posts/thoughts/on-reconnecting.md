@@ -1,7 +1,7 @@
 ---
 title: on reconnecting
 date: oct 5 2020
-tldr: belonging and self-identity in the southern appalachians.
+tldr: belonging and self-identity in the appalachians.
 ---
 
 I've finally settled down, after having been on the move for the past year and a half. 
