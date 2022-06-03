@@ -39,7 +39,7 @@ export default function Index() {
         </p>
         <p>
           feel free to {' '}
-          <a href="mailto:jinyoung@pm.me" className="email">
+          <a href="mailto:jinyoung@pm.me?subject= howdy :)" className="email">
             reach out
           </a>-{' '}
           i&apos;m also on{' '}
