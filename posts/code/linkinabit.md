@@ -6,6 +6,6 @@ hackathon: no
 live_demo: https://github.com/jinyoungch0i/LinkInABit
 ---
 
-A browser extension that caches LinkedIn™ profiles to facilitate following up.
+A browser extension that caches LinkedIn™ profiles to facilitate following up in the future.
 
 [> source code](https://github.com/jinyoungch0i/LinkInABit)
