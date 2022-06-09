@@ -48,7 +48,7 @@
 }
 
 .pathRoot {
-  margin-right: 2px;
+  margin-right: 6px;
   opacity: 0.45;
   letter-spacing: -0.04em;
 }
@@ -74,5 +74,9 @@
 
   .path {
     flex-wrap: wrap;
+  }
+
+  .pathRoot {
+    margin-right: 2px;
   }
 }
