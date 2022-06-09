@@ -1,7 +1,7 @@
 :root {
   --font: -apple-system, blinkmacsystemfont, system-ui, sans-serif;
   --main-content: 32rem;
-  --main-content-biography: 16rem;
+  --main-content-biography: 17rem;
   --white: rgba(243, 241, 240, 0.99);
   --white-grey: rgba(243, 241, 240, 0.91);
   --black: #111;
@@ -185,7 +185,7 @@ blockquote {
 
 @media only screen and (max-width: 500px) {
   h1 {
-    font-size: 2.4rem;
+    font-size: 1.85rem;
     line-height: 3rem;
   }
 
@@ -213,9 +213,17 @@ blockquote {
     font-size: 0.7rem;
   }
 
+  .center-photo {
+    margin: 35px 3px 45px 0px;
+  }
+
   #biography {
     margin: 0 auto;
     max-width: var(--main-content-biography);
+  }
+
+  #biography p {
+    font-size: 1.0272rem;
   }
 }
 

@@ -17,16 +17,16 @@
   display: flex;
   align-items: center;
   background: none;
-  margin-right: 0.5rem;
-  margin-top: 8px;
+  margin-right: 1.25rem;
+  margin-top: 6px;
   -webkit-tap-highlight-color: transparent;
   outline: none;
 }
 
 .sun {
   position: absolute;
-  height: 30px;
-  width: 30px;
+  height: 26px;
+  width: 26px;
   background-color: var(--white);
   border-radius: 50%;
   transition: var(--transition);
@@ -34,8 +34,8 @@
 
 .moon {
   position: absolute;
-  height: 30px;
-  width: 30px;
+  height: 28px;
+  width: 28px;
   background-color: var(--black);
   border-radius: 50%;
   left: var(--moon-left);
