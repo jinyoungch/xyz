@@ -228,6 +228,7 @@ blockquote {
   #biography {
     margin: 0 auto;
     max-width: var(--main-content-biography);
+    margin-left: 15px;
   }
 
   #biography p {
