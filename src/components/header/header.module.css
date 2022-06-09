@@ -2,7 +2,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin: 2em 0;
+  margin: 1.5em 0;
 }
 
 .toggle {
@@ -18,15 +18,15 @@
   align-items: center;
   background: none;
   margin-right: 1.25rem;
-  margin-top: 6px;
+  margin-top: 9px;
   -webkit-tap-highlight-color: transparent;
   outline: none;
 }
 
 .sun {
   position: absolute;
-  height: 26px;
-  width: 26px;
+  height: 30px;
+  width: 30px;
   background-color: var(--white);
   border-radius: 50%;
   transition: var(--transition);
@@ -34,8 +34,8 @@
 
 .moon {
   position: absolute;
-  height: 28px;
-  width: 28px;
+  height: 30px;
+  width: 30px;
   background-color: var(--black);
   border-radius: 50%;
   left: var(--moon-left);
@@ -54,6 +54,24 @@
 }
 
 @media only screen and (max-width: 500px) {
+
+  .toggle {
+    width: 10px;
+    height: 21px;
+    margin-right: .85rem;
+    margin-top: 5px;
+  }
+
+  .sun {
+    height: 21px;
+    width: 21px;
+  }
+
+  .moon {
+    height: 21px;
+    width: 21px;
+  }
+
   .path {
     flex-wrap: wrap;
   }

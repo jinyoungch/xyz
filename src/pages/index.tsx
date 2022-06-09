@@ -41,7 +41,7 @@ export default function Index() {
           feel free to {' '}
           <a href="mailto:jinyoung@pm.me?subject= howdy :)" className="email">
             reach out
-          </a>-{' '}<br/>
+          </a>-{' '}
           you can also find me on{' '}
           <a href="https://github.com/jinyoungch0i" className="github">
             github

@@ -5,7 +5,7 @@ import { Layout, Post } from '../../components';
 export default function CodeRouteIndexPage({ posts = [] }) {
   return (
     <Layout siteTitle="jinyoung / code" pageTitle="code">
-      <p>Some <code>hackathon</code> projects were developed in collaboration.</p>
+      <p id="code-page-description">Some <code>hackathon</code> projects were developed in collaboration.</p>
       {posts.map(({ title, date, stack, slug, hackathon, live_demo, projectSummary }) => (
         <Post 
           key={slug} 
