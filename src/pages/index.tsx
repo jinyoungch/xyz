@@ -16,7 +16,7 @@ export default function Index() {
           height={200}
         />
       </div>
-      <main>
+      <main id="biography">
         <p>
           software engineer working on user growth {' '}
           <a 
