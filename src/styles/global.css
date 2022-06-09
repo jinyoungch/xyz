@@ -209,7 +209,6 @@ blockquote {
   }
 
   p {
-    letter-spacing: 0.5px;
     font-size: 1rem;
   }
 
@@ -228,7 +227,7 @@ blockquote {
   #biography {
     margin: 0 auto;
     max-width: var(--main-content-biography);
-    margin-left: 15px;
+    margin-left: 25px;
   }
 
   #biography p {
