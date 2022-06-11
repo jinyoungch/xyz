@@ -25,6 +25,7 @@
     left 0.2s ease;
   --moon-top: 0;
   --moon-left: 0;
+  color-scheme: light;
 }
 
 [data-theme="dark"] {
@@ -33,6 +34,7 @@
   --background: var(--black);
   --moon-top: -4px;
   --moon-left: 6px;
+  color-scheme: dark;
 }
 
 ::selection {
