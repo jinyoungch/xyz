@@ -26,7 +26,7 @@ While the goal I had for my sixth month mark was to apply to a competitive compu
 
 One particular [blog](https://colorfulcodesblog.wordpress.com/2016/08/21/recurse-center-application-process/comment-page-1/) really consolidated my rationale, and encouraged me to keep seeking for things I otherwise desire in terms of supplementing my self-guided career change. 
 
-As I noted in my previous entry [On Direction](https://www.jinyoung.xyz/code/on-direction), something I've been longing for has been the sense of peer-support that I often took for granted in my traditional schooling. 
+As I noted in my previous entry [On Direction](https://www.jinyoung.xyz/thoughts/on-direction), something I've been longing for has been the sense of peer-support that I often took for granted in my traditional schooling. 
 
 Now, learning **any** discipline in a self-taught manner can make a lonely experience, especially without a network of colleagues with whom to bounce ideas with and remain accountable to. 
 
