@@ -20,7 +20,7 @@ All you need is a text editor/IDE, internet connection, and some programming lan
 
 Despite the growing pains that come from the never-ending quest for knowledge, I have gotten to appreciate how one can straight away apply their newfound knowledge onto a tangible creation. 
 
-For instance, I finally learned how to work with APIs and applied my findings to this website.
+For instance, I finally learned how to work with REST APIs and applied my findings to this website.
 
 The idea was to work with [OpenWeatherMap](https://openweathermap.org/), whose API provides realtime weather information that corresponds to the client location (i.e. where the site visitor is connecting from). 
 
