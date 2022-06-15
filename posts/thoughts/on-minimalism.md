@@ -44,7 +44,7 @@ While it would be nice for me to see how the website is doing, and how it's ahea
 
 It could be that I, the site owner, only have to write in some Javascript snippet to the main HTML script to integrate Google Analytics, and that I wouldn't exactly have to go out of my way to learn 'how to figure this technology out'. 
 
-It also could be that you, the visitor, may not care much for third-party cookies or your data getting fed into Google's system whereby your web-usage will be analysed to make their products more 'relevant' to your usage (the quotes are intentionally placed). 
+It also could be that you, the visitor, may not care much for third-party cookies or your data getting fed into Google's system whereby your web-usage will be analysed to make their products more 'relevant' to your usage (the quotes highlighting the operative word here). 
 
 Either way, jinyoung.xyz is **not** a platform for commercial usage (and I can assure you it will remain that way), which means that having the analytics function is only redundant for me. It's a 'nice-to-have', but by no means a 'required'.
 
