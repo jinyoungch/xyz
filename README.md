@@ -31,12 +31,3 @@ Then run:
 ```sh
 npm run dev
 ```
-
-## Todo
-
-- Allow `/thoughts` entries to be filterable by tags: 
-    - tag ideas:
-        - `personal`
-        - `career`
-    - `/thoughts` index page to include a blurb: 
-        - copy: "filter: all | career | personal"
