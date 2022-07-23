@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Layout } from '../components';
-import profilePhoto from '../../public/hudson_compressed.jpeg'
+import profilePhoto from '../../public/bilbao_squared_compressed.jpeg'
 
 export default function Index() {
   return (
