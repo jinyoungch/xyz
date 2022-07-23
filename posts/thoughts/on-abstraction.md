@@ -2,6 +2,7 @@
 title: on abstraction
 date: sep 18 2020
 tldr: concept of abstraction and learning to code.
+category: career
 ---
 
 The idea of things being abstracted away is at the core of how we make sense and interact with the world around us. 

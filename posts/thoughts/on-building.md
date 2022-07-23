@@ -2,6 +2,7 @@
 title: on building
 date: sep 16 2020
 tldr: console.log('hello world')
+category: career
 ---
 
 *Note: this entry was written regarding the [earlier version](https://web.archive.org/web/20220526001917/https://www.jinyoung.xyz/) of this blog*

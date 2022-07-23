@@ -7,6 +7,7 @@ import styles from './post.module.css';
 
 export default function Post({
   title = '',
+  category = '',
   date = '',
   isThoughtsEntry = false,
   isCodeEntry = false,
@@ -38,9 +39,12 @@ export default function Post({
                 <h2>{title}<kbd> ↵</kbd></h2>
               </a>
             ): (
-              <a>
-              <h2>{title}</h2>
-            </a>
+              <div className='thoughtPostTitleAndCategory'>
+                <a>
+                  <h2>{title}</h2>
+                </a>
+                <code>{category}</code>
+              </div>
             )}
           </Link>
         ) : (

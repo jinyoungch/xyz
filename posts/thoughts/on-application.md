@@ -2,6 +2,7 @@
 title: on application
 date: nov 08 2020
 tldr: putting knowledge into practice.
+category: career
 ---
 
 *Note: this entry was written regarding the [earlier version](https://web.archive.org/web/20220526001917/https://www.jinyoung.xyz/) of this blog*

@@ -2,6 +2,7 @@
 title: on craftmanship
 date: sep 17 2020
 tldr: programming as a craft. 
+category: career
 ---
 
 *Note: this entry was written regarding the [earlier version](https://web.archive.org/web/20220526001917/https://www.jinyoung.xyz/) of this blog*

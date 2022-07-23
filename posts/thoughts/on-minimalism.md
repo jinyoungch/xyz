@@ -2,6 +2,7 @@
 title: on minimalism
 date: sep 20 2020
 tldr: applying minimalism to building on the web.
+category: career
 ---
 
 I've recently been trying to apply the philosophical concept of minimalism into my programming workflow. 

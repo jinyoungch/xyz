@@ -9,10 +9,10 @@ const readingTime = require('reading-time');
 import { Layout, Post } from '../../components';
 
 
-export default function ThoughtsPage({ title = '', date = '', body = '', readingMins = 0, }) {
+export default function ThoughtsPage({ title = '', date = '', body = '', readingMins = 0, category = ''}) {
   return (
     <Layout siteTitle={title} pageTitle="thoughts">
-      <Post title={title} date={date} readingMins={readingMins}> 
+      <Post title={title} date={date} readingMins={readingMins} category={category}> 
         {body}
       </Post>
       <p className='return-to-main'>
@@ -27,7 +27,7 @@ export async function getStaticProps({ ...ctx }) {
   const content = await import(`../../../posts/thoughts/${slug}.md`);
   const converter = new Converter({ metadata: true, extensions: [showdownHighlight] });
   const body = converter.makeHtml(content.default);
-  const { title, date } = converter.getMetadata();
+  const { title, date, category } = converter.getMetadata();
 
   const { minutes } = readingTime(body);
   const readingMins = Math.round(minutes);
@@ -39,6 +39,7 @@ export async function getStaticProps({ ...ctx }) {
       date,
       body,
       readingMins,
+      category
     },
   };
 }
