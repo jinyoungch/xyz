@@ -12,7 +12,7 @@ export default function MyApp({ Component, pageProps }) {
         <meta charSet="utf-8" />
         <meta name="description" content="Jin Young Choi Blog/Portfolio" />
         <meta name="author" content="Jin Young Choi" />
-        <meta name="image" property="og:image" content="/hudson_compressed.jpeg" />
+        <meta name="image" property="og:image" content="/bilbao_squared_compressed.jpeg" />
         <meta name="description" property="og:description" content="software engineer based in nyc" />
         <meta property="og:type" content="website" />
         <meta name="title" property="og:title" content="jinyoung choi" />
