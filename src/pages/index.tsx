@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Layout } from '../components';
-import profilePhoto from '../../public/bilbao_squared_compressed.jpeg'
+import profilePhoto from '../../public/bilbao_compressed.webp'
 
 export default function Index() {
   return (
@@ -19,15 +19,15 @@ export default function Index() {
       <main id="biography">
         <p>
           software engineer working on user growth {' '}
-          <a 
-            href="https://babbel.com" 
+          <a
+            href="https://babbel.com"
             className="babbel"
             aria-label="11MM+ users globally (and counting!)"
           >
           @babbel
           </a>.
         </p>
-        <p>i {' '} 
+        <p>i {' '}
           <Link href="/thoughts">
             <a className="thoughts">write</a>
           </Link>{' '}
