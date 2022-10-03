@@ -1,7 +1,7 @@
 ---
 title: Conjugationary
 date: mar 15 2022
-stack: TypeScript, EJS, Node.js, SQLite, OpenAI, AWS, Puppeteer
+stack: TypeScript, Node, SQLite, OpenAI, AWS, Puppeteer
 hackathon: Babbel https://babbel.com/
 live_demo: https://conjugationary.babbel.lol/
 ---
