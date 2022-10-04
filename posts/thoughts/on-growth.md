@@ -1,0 +1,51 @@
+---
+title: on growth
+date: oct 03 2022
+tldr: navigating on-the-job learning.
+---
+
+I have found myself navigating through a fair amount of career-related life changes since my last [/thoughts](../thoughts) entry.
+
+Few months after competing in [my first hackathon](https://devpost.com/software/cv_tailor), I started my first software engineering job at Babbel: the cross-platform language learning product. Although I started remotely from Asheville, I relocated to NYC earlier in February to work out of Babbel's US office. 
+
+Maybe the reason why it took so long for me to return to this blog is that life has really picked up since I moved to the city. 
+
+Professionally, I've been expanding my software engineering toolkit from my self-taught education that mainly focused on frontend engineering; and this is entirely by design. 
+
+When I signed my offer with Babbel, I was intentional about negotiating and landing a domain-agnostic software engineer role for three main reasons:
+
+• I felt like I'm too early in my career to specialise my skillset when I had not exposed myself to other software engineering disciplines
+
+• I've always been curious about server-side and cloud technologies, in particular the relationship between those domains and the question of **scalability**
+
+• Lastly, since Babbel has a smaller workforce as a pre-IPO startup, I believed that a software engineer exposing themselves to a wide range of skills would be much encouraged.
+
+Coming up to a year at Babbel, I will say that the constant learning that I had expected on this job has, in fact, been the most empowering aspect of my work-life.
+
+Just recently, I've had the chance to lead a [Headless CMS](https://youtu.be/-Uor3I0n_vQ?t=11) integration for one of our client-side applications that logs around half a million monthly users. 
+
+On the surface, the project initially appeared to warrant a frontend expertise: 
+
+*...query the exposed endpoint of the CMS, have the client handle the JSON API response, re-work state management to update rendering logic...*
+
+While the above was the gist of the task-at-hand, I quickly learned that this project additionally involved **making adaptations to Babbel's broader infrastructure**. 
+
+In this case, the client-side application in question is served via a serverless AWS Lambda function, which is routed via an Amazon API Gateway. 
+
+Babbel, as an organization, provisions its AWS resources via Terraform (following a convention known as [Infrastructure as Code](https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code)), which means that navigating and introducing a change to our cloud infrastructure required cross-referencing and creating Pull Requests (PRs) written in the HashiCorp Configuration Language [(HCL)](https://www.terraform.io/language#about-the-terraform-language). 
+
+Not to mention throwing into the mix an additional AWS service, namely the AWS Secrets Manager, which was used on the server-side to securely store the confidential API key required for the CMS query.
+
+Coming into this job around a year ago, I did anticipate that a bulk of my work-life would consist of building and maintaining software that had already been brought into existence by people other than myself. 
+
+Those people being folks who are much more experienced than me and, naturally, with a more informed perspective on how to implement solutions in the most optimised, tried-and-tested ways.  
+
+To this end, I would like to acknowledge how life-changing it has been to learn from my colleagues at Babbel and to collaborate with them. 
+
+Being one of only a handful of junior software engineers in a company of ~300 engineers, I feel a unique sense of privilege that empowers me to soak up as much knowledge as I can during my time here. 
+
+Most importantly, the more I get immersed into this career path, the more I'm slowly coming to terms with how valuable ones interpersonal skills are when paired with technical skills.
+
+By the time I feel ready to leave Babbel, I hope to become a stronger engineer in both camps. 
+
+More on this next time. 🏕 
