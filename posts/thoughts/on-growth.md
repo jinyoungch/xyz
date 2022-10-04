@@ -6,7 +6,9 @@ tldr: navigating on-the-job learning.
 
 I have found myself navigating through a fair amount of career-related life changes since my last [/thoughts](../thoughts) entry.
 
-Few months after competing in [my first hackathon](https://devpost.com/software/cv_tailor), I started my first software engineering job at Babbel: the cross-platform language learning product. Although I started remotely from Asheville, I relocated to NYC earlier in February to work out of Babbel's US office. 
+Few months after competing in [my first hackathon](https://devpost.com/software/cv_tailor), I started my first software engineering job at Babbel: the cross-platform language learning product. 
+
+Although I started remotely from Asheville, I, along with my cat [Pecan](https://photos.app.goo.gl/uJpisfaPcUG4PWzy8), relocated to NYC earlier in February to work out of Babbel's US office. 
 
 Maybe the reason why it took so long for me to return to this blog is that life has really picked up since I moved to the city. 
 
@@ -18,7 +20,7 @@ When I signed my offer with Babbel, I was intentional about negotiating and land
 
 • I've always been curious about server-side and cloud technologies, in particular the relationship between those domains and the question of **scalability**
 
-• Lastly, since Babbel has a smaller workforce as a pre-IPO startup, I believed that a software engineer exposing themselves to a wide range of skills would be much encouraged.
+• Lastly, since Babbel has a smaller workforce as a pre-IPO startup, I believed that a software engineer exposing himself to a wide range of skills would be much encouraged.
 
 Coming up to a year at Babbel, I will say that the constant learning that I had expected on this job has, in fact, been the most empowering aspect of my work-life.
 
@@ -38,14 +40,14 @@ Not to mention throwing into the mix an additional AWS service, namely the AWS S
 
 Coming into this job around a year ago, I did anticipate that a bulk of my work-life would consist of building and maintaining software that had already been brought into existence by people other than myself. 
 
-Those people being folks who are much more experienced than me and, naturally, with a more informed perspective on how to implement solutions in the most optimised, tried-and-tested ways.  
+Those people being folks who are much more experienced than me and, naturally, with a more informed perspective on how to implement solutions in the most optimised ways.  
 
 To this end, I would like to acknowledge how life-changing it has been to learn from my colleagues at Babbel and to collaborate with them. 
 
 Being one of only a handful of junior software engineers in a company of ~300 engineers, I feel a unique sense of privilege that empowers me to soak up as much knowledge as I can during my time here. 
 
-Most importantly, the more I get immersed into this career path, the more I'm slowly coming to terms with how valuable ones interpersonal skills are when paired with technical skills.
+Most importantly, the more I immerse myself in this career path, the more I'm slowly coming to terms with how highly valued ones interpersonal skills are when backed by strong technical skills.
 
-By the time I feel ready to leave Babbel, I hope to become a stronger engineer in both camps. 
+By the time I leave Babbel, I hope to grow into a stronger software engineer in both camps. 
 
 More on this next time. 🏕 
