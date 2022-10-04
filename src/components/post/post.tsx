@@ -46,7 +46,7 @@ export default function Post({
         ) : (
           <h2>{title}</h2>
         )}
-        <h3 className='date'>{date} {readingMins !== 0 ? `| ${readingMins} mins` : null}</h3>
+        <h3 className='date'>{date} {readingMins !== 0 ? `| ⏳: ${readingMins} mins` : null}</h3>
       </hgroup>
       {isThoughtsEntry || isCodeEntry ? (
         <p>
