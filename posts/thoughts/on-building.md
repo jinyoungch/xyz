@@ -4,7 +4,7 @@ date: sep 16 2020
 tldr: console.log('hello world')
 ---
 
-*Note: this entry was written regarding the [earlier version](https://web.archive.org/web/20220526001917/https://www.jinyoung.xyz/) of this blog*
+*Note: this entry was written regarding the [earlier version](https://jinyoungch0i.github.io) of this blog*
 
 After a week of rabbitholes and flipping through god-knows-how-many browser tabs of documentations and tutorials, jinyoung.xyz mvp (minimum viable product) is finally built. 
 

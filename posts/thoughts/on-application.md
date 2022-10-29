@@ -4,7 +4,7 @@ date: nov 08 2020
 tldr: putting knowledge into practice.
 ---
 
-*Note: this entry was written regarding the [earlier version](https://web.archive.org/web/20220526001917/https://www.jinyoung.xyz/) of this blog*
+*Note: this entry was written regarding the [earlier version](https://jinyoungch0i.github.io) of this blog*
 
 Perhaps my favourite aspect of computer programming is the ability to immediately apply my knowledge onto real-life projects, à la web. 
 

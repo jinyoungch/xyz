@@ -4,7 +4,7 @@ date: sep 17 2020
 tldr: programming as a craft. 
 ---
 
-*Note: this entry was written regarding the [earlier version](https://web.archive.org/web/20220526001917/https://www.jinyoung.xyz/) of this blog*
+*Note: this entry was written regarding the [earlier version](https://jinyoungch0i.github.io) of this blog*
 
 During my time at Emory, I was lucky to receive a timeless piece of wisdom from my Spanish Poetry professor, Fernando Valverde. 
 

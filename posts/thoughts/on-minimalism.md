@@ -4,6 +4,8 @@ date: sep 20 2020
 tldr: applying minimalism to building on the web.
 ---
 
+*Note: this entry was written regarding the [earlier version](https://jinyoungch0i.github.io) of this blog*
+
 I've recently been trying to apply the philosophical concept of minimalism into my programming workflow. 
 
 To me, minimalism means optimising certain aspects of your life (or life entirely) by reducing redundancy, mainly in the form of 'decluttering'. 
