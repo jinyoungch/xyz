@@ -21,7 +21,7 @@ export default function Post({
 
   const postTagBackgroundGenerator = (tag) => {
     switch (tag) {
-      case 'work':
+      case 'career':
         return 'thoughtsPostCareerTag'
       case 'personal':
         return 'thoughtsPostPersonalTag'
