@@ -2,6 +2,7 @@
 title: on iteration
 date: feb 27 2021
 tldr: career development and its iterative nature.
+tag: work
 ---
 
 Software engineering is all about iteration upon iteration.

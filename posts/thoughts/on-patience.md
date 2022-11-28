@@ -2,6 +2,7 @@
 title: on patience
 date: oct 23 2020
 tldr: learning javascript for the first time.
+tag: work
 ---
 
 I've been struggling to write this entry because my mind has been overwhelmingly conflicted this past week. 

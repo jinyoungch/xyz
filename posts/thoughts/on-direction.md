@@ -2,6 +2,7 @@
 title: on direction
 date: oct 11 2020
 tldr: self-teaching and unlearning.
+tag: work
 ---
 
 I'm confident that self-guided learning is something I am willing to remain committed to, at least for now. 

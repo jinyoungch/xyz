@@ -2,6 +2,7 @@
 title: on growth
 date: oct 03 2022
 tldr: navigating on-the-job learning.
+tag: work
 ---
 
 I have found myself navigating through a fair amount of career-related life changes since my last [/thoughts](../thoughts) entry.

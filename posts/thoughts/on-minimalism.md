@@ -2,6 +2,7 @@
 title: on minimalism
 date: sep 20 2020
 tldr: applying minimalism to building on the web.
+tag: personal
 ---
 
 *Note: this entry was written regarding the [earlier version](https://jinyoungch0i.github.io) of this blog*
