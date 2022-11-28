@@ -2,6 +2,7 @@
 title: on multilingualism
 date: sep 25 2020
 tldr: overlaps in programming and multilingualism.
+tag: career
 ---
 
 Some friends of mine remarked that I wouldn't necessarily have a hard time picking up computer programming because of my proficiency in four human languages. 

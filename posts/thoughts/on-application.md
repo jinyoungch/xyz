@@ -2,6 +2,7 @@
 title: on application
 date: nov 08 2020
 tldr: putting knowledge into practice.
+tag: career
 ---
 
 *Note: this entry was written regarding the [earlier version](https://jinyoungch0i.github.io) of this blog*

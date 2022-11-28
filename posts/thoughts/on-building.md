@@ -2,6 +2,7 @@
 title: on building
 date: sep 16 2020
 tldr: console.log('hello world')
+tag: career
 ---
 
 *Note: this entry was written regarding the [earlier version](https://jinyoungch0i.github.io) of this blog*

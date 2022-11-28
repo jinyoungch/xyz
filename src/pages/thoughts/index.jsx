@@ -6,8 +6,8 @@ const readingTime = require('reading-time');
 export default function ThoughtsRouteIndexPage({ posts = [] }) {
   return (
     <Layout siteTitle="jinyoung / thoughts" pageTitle="thoughts">
-      {posts.map(({ title, date, tldr, slug, readingMins }) => (
-        <Post key={slug} title={title} date={date} slug={slug} readingMins={readingMins} isThoughtsEntry>
+      {posts.map(({ title, tag, date, tldr, slug, readingMins }) => (
+        <Post key={slug} tag={tag} title={title} date={date} slug={slug} readingMins={readingMins} isThoughtsEntry>
           {tldr}
         </Post>
       ))}
@@ -26,18 +26,19 @@ export async function getStaticProps() {
       const content = values[index];
       const converter = new Converter({ metadata: true });
       const body = converter.makeHtml(content.default);
-      const { title, date, tldr } = converter.getMetadata();
+      const { title, date, tldr, tag } = converter.getMetadata();
 
       const { minutes } = readingTime(body);
       const readingMins = Math.round(minutes);
       console.log(`reading time for [${title}]:`, `${readingMins}mins`)
 
       return {
-        title,
+        tag,
         date,
-        tldr,
+        readingMins,
         slug,
-        readingMins
+        title,
+        tldr,
       };
     });
 

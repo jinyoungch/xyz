@@ -2,6 +2,7 @@
 title: on abstraction
 date: sep 18 2020
 tldr: concept of abstraction and learning to code.
+tag: career
 ---
 
 *Note: this entry was written regarding the [earlier version](https://jinyoungch0i.github.io) of this blog*
