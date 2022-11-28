@@ -7,6 +7,7 @@ import styles from './post.module.css';
 
 export default function Post({
   title = '',
+  tag='',
   date = '',
   isThoughtsEntry = false,
   isCodeEntry = false,
@@ -18,11 +19,15 @@ export default function Post({
   projectSummary = ''
 }) {
 
-  let hackathonUrl;
-  let hackathonName;
-
-  if (hackathon) {
-    [hackathonName, hackathonUrl] = hackathon.split(" ")
+  const postTagBackgroundGenerator = (tag) => {
+    switch (tag) {
+      case 'work':
+        return 'thoughtsPostCareerTag'
+      case 'personal':
+        return 'thoughtsPostPersonalTag'
+      default:
+        break;
+    } (tag === '')
   }
 
   return (
@@ -38,9 +43,14 @@ export default function Post({
                 <h2>{title}<kbd> ↵</kbd></h2>
               </a>
             ): (
+            <div className='thoughtsPostTitleAndTag'>
               <a>
-              <h2>{title}</h2>
-            </a>
+                <h2>{title}</h2>
+              </a>
+              <a>
+                <code className={postTagBackgroundGenerator(tag)}>{tag}</code>
+              </a>
+            </div>  
             )}
           </Link>
         ) : (

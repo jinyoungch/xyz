@@ -7,13 +7,15 @@
   --black: #111;
   --black-grey: #222;
   --grey: #716a66;
+  --maroon: #7b3636;
   --foreground: var(--black);
   --midground: var(--black-grey);
   --background: var(--white);
   --linkedin: #00b9ff;
   --babbel: #ff6f21;
   --thoughts: #cdd327;
-  --github: #5862b1;
+  --personal: #373e72;
+  --work: #4e2626;
   --email: #8154a2;
   --dev: rgb(72, 167, 0);
   --transition:
@@ -152,7 +154,7 @@ blockquote {
 
 .github,
 .github::selection {
-  text-decoration-color: var(--github);
+  text-decoration-color: var(--work);
 }
 
 .email,
@@ -187,6 +189,22 @@ blockquote {
 
 #code-page-description {
   font-size: 1.15rem;
+}
+
+.thoughtsPostTitleAndTag {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.thoughtsPostCareerTag {
+  background-color: var(--work);
+  color: var(--white);
+}
+
+.thoughtsPostPersonalTag {
+  background-color: var(--personal);
+  color: var(--white);
 }
 
 @media only screen and (max-width: 500px) {
