@@ -7,13 +7,13 @@
   --black: #111;
   --black-grey: #222;
   --grey: #716a66;
-  --maroon: #7b3636;
   --foreground: var(--black);
   --midground: var(--black-grey);
   --background: var(--white);
   --linkedin: #00b9ff;
   --babbel: #ff6f21;
   --thoughts: #cdd327;
+  --github: #5862b1;
   --personal: #373e72;
   --work: #4e2626;
   --email: #8154a2;
@@ -154,7 +154,7 @@ blockquote {
 
 .github,
 .github::selection {
-  text-decoration-color: var(--work);
+  text-decoration-color: var(--github);
 }
 
 .email,
