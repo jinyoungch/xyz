@@ -5,6 +5,8 @@ tldr: concept of abstraction and learning to code.
 tag: work
 ---
 
+*Note: this entry was written regarding the [earlier version](https://jinyoungch0i.github.io) of this blog*
+
 The idea of things being abstracted away is at the core of how we make sense and interact with the world around us. 
 
 For example, if I were to turn on the TV in my parent's livingroom (which I certainly find myself doing a lot during this indefinite quarantine), I wouldn't exactly 'hack' into the hardware of the television just to manipulate it to flip on the channel I want to view; that would be rather inefficient and would instead push me towards a less cognitively-demanding pastime. 
