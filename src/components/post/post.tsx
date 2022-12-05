@@ -60,7 +60,7 @@ export default function Post({
       </hgroup>
       {isThoughtsEntry || isCodeEntry ? (
         <p>
-          <b>{isThoughtsEntry ? `tl;dr: ` : `stack: `}</b>
+          <b>{isThoughtsEntry ? `tldr: ` : `stack: `}</b>
           {children}
           <br />
           {isThoughtsEntry && (
