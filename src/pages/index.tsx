@@ -18,7 +18,7 @@ export default function Index() {
       </div>
       <main id="biography">
         <p>
-          software engineer working on user growth {' '}
+          software engineer working on revenue & growth {' '}
           <a
             href="https://babbel.com"
             className="babbel"
