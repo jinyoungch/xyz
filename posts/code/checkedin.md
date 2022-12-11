@@ -6,6 +6,6 @@ hackathon: no
 live_demo: https://jinyoungch0i.github.io/checkedin./public/
 ---
 
-A calendar that reminds users when to get in touch with saved contacts.
+A calendar/reminder to keep in touch with others.
 
 [> source code](https://github.com/jinyoungch0i/checkedin.)

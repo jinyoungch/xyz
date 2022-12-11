@@ -5,7 +5,7 @@ tldr: career development and its iterative nature.
 tag: career
 ---
 
-Software engineering is all about iteration upon iteration.
+Web development is all about iteration upon iteration.
 
 Looking at the git history of my latest project [checkedin.](https://github.com/jinyoungch0i/checkedin.), I've made over 120 commits to this exciting software I've started developing only three weeks ago. 
 
