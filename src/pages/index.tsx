@@ -18,7 +18,7 @@ export default function Index() {
       </div>
       <main id="biography">
         <p>
-        uk raised <a className="linkedin" href="https://www.linkedin.com/in/jinyoungch0i/">software engineer</a>
+        polyglot <a className="linkedin" href="https://www.linkedin.com/in/jinyoungch0i/">software engineer</a>
         , <a className="strava" href="https://www.strava.com/athletes/24642494">cyclist</a>
         , and <a className="soundcloud" href="https://soundcloud.com/jinyoungch0i">instrumentalist</a>.
         </p>

@@ -6,6 +6,6 @@ hackathon: no
 live_demo: https://jinyoungch0i.github.io/calc.js/
 ---
 
-A GUI calculator to perform basic arithmetic operations. 
+A calculator for basic arithmetics. 
 
 [> source code](https://github.com/jinyoungch0i/calc.js)
