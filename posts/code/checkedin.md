@@ -6,6 +6,6 @@ hackathon: no
 live_demo: https://jinyoungch0i.github.io/checkedin./public/
 ---
 
-A calendar/reminder to keep in touch with others.
+A calendar/reminder to keep in touch.
 
 [> source code](https://github.com/jinyoungch0i/checkedin.)
