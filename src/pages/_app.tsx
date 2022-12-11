@@ -14,7 +14,7 @@ export default function MyApp({ Component, pageProps }) {
         <meta name="author" content="Jin Young Choi" />
         {/* TODO: modify content value for meta image from relative path to canonical URL */}
         <meta name="image" property="og:image" content="../public/portugal.jpeg" />
-        <meta name="description" property="og:description" content="software engineer based in nyc" />
+        <meta name="description" property="og:description" content="(self-proclaimed) interesting person" />
         <meta property="og:type" content="website" />
         <meta name="title" property="og:title" content="jinyoung choi" />
         <link rel="icon" href="/favicon.ico" />

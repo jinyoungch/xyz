@@ -11,7 +11,8 @@
   --midground: var(--black-grey);
   --background: var(--white);
   --linkedin: #00b9ff;
-  --babbel: #ff6f21;
+  --strava: #ff6f21;
+  --soundcloud: #803f1f;
   --thoughts: #cdd327;
   --github: #5862b1;
   --personal: #373e72;
@@ -147,6 +148,11 @@ blockquote {
   text-decoration-color: var(--linkedin);
 }
 
+.soundcloud,
+.soundcloud::selection {
+  text-decoration-color: var(--soundcloud);
+}
+
 .thoughts,
 .thoughts::selection {
   text-decoration-color: var(--thoughts);
@@ -167,9 +173,9 @@ blockquote {
   text-decoration-color: var(--dev);
 }
 
-.babbel,
-.babbel::selection {
-  text-decoration-color: var(--babbel);
+.strava,
+.strava::selection {
+  text-decoration-color: var(--strava);
 }
 
 .profile-photo {
