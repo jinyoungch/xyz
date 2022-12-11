@@ -18,14 +18,9 @@ export default function Index() {
       </div>
       <main id="biography">
         <p>
-          software engineer working on revenue & growth {' '}
-          <a
-            href="https://babbel.com"
-            className="babbel"
-            aria-label="11MM+ users globally (and counting!)"
-          >
-          @babbel
-          </a>.
+        uk raised <a className="linkedin" href="https://www.linkedin.com/in/jinyoungch0i/">software engineer</a>
+        , <a className="strava" href="https://www.strava.com/athletes/24642494">cyclist</a>
+        , and <a className="soundcloud" href="https://soundcloud.com/jinyoungch0i">instrumentalist</a>.
         </p>
         <p>i {' '}
           <Link href="/thoughts">
@@ -39,7 +34,7 @@ export default function Index() {
         </p>
         <p>
           feel free to {' '}
-          <a href="mailto:jinyoungchoi@pm.me?subject= howdy :)" className="email">
+          <a href="mailto:jinyoungchoi@protonmail.com?subject= Touching Base from jinyoung.xyz" className="email">
             reach out
           </a>-{' '}
           you can also find me on{' '}
