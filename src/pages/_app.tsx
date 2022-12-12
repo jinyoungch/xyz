@@ -17,7 +17,7 @@ export default function MyApp({ Component, pageProps }) {
         <meta property="og:image:height" content="630" />
         <meta name="description" property="og:description" content="a self-proclaimed interesting human bean 🫘" />
         <meta property="og:description" content="a self-proclaimed interesting human bean 🫘" />
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content="article" />
         <meta name="title" property="og:title" content="jinyoung" />
         <link rel="icon" href="public/favicon.ico" />
         <base target="_blank" />
