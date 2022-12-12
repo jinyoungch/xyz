@@ -15,7 +15,7 @@ Even outside the realm of STEM, if you work in finance or international developm
 
 In other words, your ideas are bound by the constraints of the physical world. 
 
-As a counter perspective, it often amazes me how unhindered the field of software engineering is when it comes to the act of creating, much less the idea of deploying an individual creation to a wide-reaching platform like the internet.
+As a counter perspective, it often amazes me how unhindered the field of programming is when it comes to the act of creating, much less the idea of deploying an individual creation to a wide-reaching platform like the internet.
 
 All you need is a text editor/IDE, internet connection, and some programming language(s) and frameworks to structure and consolidate your thoughts onto the computer's logic. 
 
@@ -58,7 +58,7 @@ Lastly, with the JavaScript logic written, the only thing that was left was to t
 
 And voilá!
 
-As a visitor accessing [jinyoung.xyz](https://www.jinyoung.xyz/), you will first be prompted to grant location access (as per your browser's security protocol). If you grant access, the site will display a line of weather information for your location, right below the navigation bar:
+As a visitor accessing [jinyoungch0i.github.io](https://jinyoungch0i.github.io), you will first be prompted to grant location access (as per your browser's security protocol). If you grant access, the site will display a line of weather information for your location, right below the navigation bar:
 
 [click here for illustration](https://photos.app.goo.gl/iZwR2BmCakMnrqrz9)
 

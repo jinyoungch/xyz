@@ -20,8 +20,8 @@ export default function Index() {
         <p>
         polyglot <a className="linkedin" href="https://www.linkedin.com/in/jinyoungch0i/">software engineer</a>
         , <a className="strava" href="https://www.strava.com/athletes/24642494">cyclist</a>
-        , <a className="soundcloud" href="https://soundcloud.com/jinyoungch0i">instrumentalist</a>
-        , etc.
+        , and <a className="soundcloud" href="https://soundcloud.com/jinyoungch0i">instrumentalist</a>
+        .
         </p>
         <p>i {' '}
           <Link href="/thoughts">

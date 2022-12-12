@@ -9,11 +9,11 @@ I have found myself navigating through a fair amount of career-related life chan
 
 Few months after competing in [my first hackathon](https://devpost.com/software/cv_tailor), I started my first software engineering job at Babbel: the cross-platform language learning product. 
 
-Although I started remotely from Asheville, I, along with my cat [Pecan](https://photos.app.goo.gl/uJpisfaPcUG4PWzy8), relocated to NYC earlier in February to work out of Babbel's US office. 
+Although I started remotely from [Asheville](https://jinyoung.xyz/thoughts/on-reconnecting), I, along with my cat [Pecan](https://photos.app.goo.gl/uJpisfaPcUG4PWzy8), relocated to NYC earlier in February to work out of Babbel's US office. 
 
 Maybe the reason why it took so long for me to return to this blog is that life has really picked up since I moved to the city. 
 
-Professionally, I've been expanding my software engineering toolkit from my self-taught education that mainly focused on frontend engineering; and this is entirely by design. 
+Professionally, I've been expanding my software engineering toolkit from my self education that mainly focused on frontend engineering; and this is entirely by design. 
 
 When I signed my offer with Babbel, I was intentional about negotiating and landing a domain-agnostic software engineer role for three main reasons:
 
@@ -41,7 +41,7 @@ Not to mention throwing into the mix an additional AWS service, namely the AWS S
 
 Coming into this job around a year ago, I did anticipate that a bulk of my work-life would consist of building and maintaining software that had already been brought into existence by people other than myself. 
 
-Those people being folks who are much more experienced than me and, naturally, with a likely more informed perspective on how to implement solutions in the most optimised ways.  
+Those people being folk who are much more experienced than me and with more informed perspectives on how to implement solutions in algorithmically optimised ways.  
 
 To this end, I would like to acknowledge how life-changing it has been to learn from experienced software engineers and to collaborate with them. 
 
