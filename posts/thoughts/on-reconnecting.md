@@ -31,4 +31,4 @@ Here, I will be continuing to challenge my understanding of software development
 
 What am I most excited about? 
 
-The multigenerational commune that will be my home for the next six months, and the colours of leaves exploding into autumn. :)
+The [multigenerational commune](https://www.instagram.com/westwoodcohoavl/) that will be my home for the near future, and the colours of leaves exploding into autumn. :)
