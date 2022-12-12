@@ -5,9 +5,9 @@ tldr: career development and its iterative nature.
 tag: career
 ---
 
-Web development is all about iteration upon iteration.
+Programming is all about iteration upon iteration.
 
-Looking at the git history of my latest project [checkedin.](https://github.com/jinyoungch0i/checkedin.), I've made over 120 commits to this exciting software I've started developing only three weeks ago. 
+Looking at the git history of my latest project [checkedin.](https://github.com/jinyoungch0i/checkedin.), I've made over 120 commits to this exciting project I've started developing only three weeks ago. 
 
 (For my visually-inclined readers, I've been keeping a record of all the UI iterations I've committed over the course of its development [here](https://github.com/jinyoungch0i/checkedin./tree/main/changelog)).
 
