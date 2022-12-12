@@ -12,7 +12,9 @@ export default function MyApp({ Component, pageProps }) {
         <meta charSet="utf-8" />
         <meta name="author" content="jinyoung" />
         {/* TODO: modify content value for meta image from relative path to canonical URL */}
-        <meta name="image" property="og:image" content="public/portugal.jpeg" />
+        <meta name="image" property="og:image" content="public/portugal_og-image-1200x630px.jpeg" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
         <meta name="description" property="og:description" content="self-proclaimed autodidact and interesting human bean 🫘" />
         <meta property="og:description" content="self-proclaimed autodidact and interesting human bean 🫘" />
         <meta property="og:type" content="website" />
