@@ -207,12 +207,12 @@ blockquote {
 }
 
 .thoughtsPostCareerTag {
-  background-color: var(--work);
+  background-color: var(--linkedin);
   color: var(--white);
 }
 
 .thoughtsPostPersonalTag {
-  background-color: var(--personal);
+  background-color: var(--thoughts);
   color: var(--white);
 }
 
@@ -246,7 +246,7 @@ blockquote {
   }
 
   .center-photo {
-    margin: 35px 3px 45px 0px;
+    margin: 30px 3px 32px 0px;
   }
 
   #code-page-description {
@@ -257,7 +257,7 @@ blockquote {
   #biography {
     margin: 0 auto;
     max-width: var(--main-content-biography);
-    margin-left: 36.15px;
+    margin-left: 38.15px;
   }
 
   #biography p {
