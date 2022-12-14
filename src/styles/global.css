@@ -11,16 +11,16 @@
   --foreground: var(--black);
   --midground: var(--black-grey);
   --background: var(--white);
-  --linkedin: #0072b1;
-  --strava: #cb6314;
-  --soundcloud: #a853a1;
-  --thoughts: #cdd327;
+  --linkedin: #5f789e;
+  --strava: #5f9477;
+  --soundcloud: #a87753;
+  --stackoverflow: #6c6060;
   --github: #5862b1;
-  --stackoverflow: #a05786;
-  --personal: #373e72;
-  --work: #452f2f;
-  --email: #8154a2;
-  --dev: rgb(72, 167, 0);
+  --thoughts: #a0576d;
+  --personal: #464b6a;
+  --work: #4e3f3f;
+  --email: #633f7d;
+  --dev:#b6af86;
   --transition:
     color 0.2s ease,
     background-color 0.2s ease,
