@@ -18,7 +18,7 @@ export default function Index() {
       </div>
       <main id="biography">
         <p>
-        polyglot <a className="linkedin" href="https://www.linkedin.com/in/jinyoungch0i/">software engineer</a>
+        polyglot, <a className="linkedin" href="https://www.linkedin.com/in/jinyoungch0i/">software engineer</a>
         , <a className="strava" href="https://www.strava.com/athletes/24642494">cyclist</a>
         , and <a className="soundcloud" href="https://soundcloud.com/jinyoungch0i">instrumentalist</a>
         .
@@ -35,12 +35,19 @@ export default function Index() {
         </p>
         <p>
           feel free to {' '}
-          <a href="mailto:jinyoungchoi@protonmail.com?subject= Touching Base from jinyoung.xyz" className="email">
+          <a href="mailto:jinyoungchoi@protonmail.com?subject= let me know on updates to jinyoung.xyz!" className="email">
             reach out
-          </a>-{' '}
+          </a>{' '}
+          and stay on top of updates on here.
+        </p>
+        <p>
           you can also find me on{' '}
           <a href="https://github.com/jinyoungch0i" className="github">
             github
+          </a>
+          {' '}and{' '}
+          <a href="https://stackoverflow.com/users/saves/14270947/all" className="stackoverflow">
+            stack overflow
           </a>
           .
         </p>
