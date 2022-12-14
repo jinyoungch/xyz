@@ -46,7 +46,7 @@ export default function Index() {
             github
           </a>
           {' '}and{' '}
-          <a href="https://stackoverflow.com/users/saves/14270947/all" className="stackoverflow">
+          <a href="https://stackoverflow.com/users/14270947/jinyoungch0i?tab=profile" className="stackoverflow">
             stack overflow
           </a>
           .
