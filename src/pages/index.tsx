@@ -18,19 +18,31 @@ export default function Index() {
       </div>
       <main id="biography">
         <p>
-        polyglot, <a className="linkedin" href="https://www.linkedin.com/in/jinyoungch0i/">software engineer</a>
-        , <a className="strava" href="https://www.strava.com/athletes/24642494">cyclist</a>
-        , and <a className="soundcloud" href="https://soundcloud.com/jinyoungch0i">instrumentalist</a>
+        polyglot,{' '}
+         <a className="linkedin" href="https://www.linkedin.com/in/jinyoungch0i/">software engineer</a>
+        , <a className="soundcloud" href="https://soundcloud.com/jinyoungch0i">instrumentalist</a> 
+        , and <a className="strava" href="https://www.strava.com/athletes/24642494">cyclist</a>
         .
         </p>
         <p>i {' '}
           <Link href="/thoughts">
             <a className="thoughts">write</a>
           </Link>{' '}
-          to live more intentionally and build tools with{' '}
+          to live with intention, and i build tools with{' '}
           <Link href="/code">
             <a className="dev">code</a>
           </Link>
+          .
+        </p>
+        <p>
+          my work can be found on{' '}
+          <a href="https://github.com/jinyoungch0i" className="github">
+            github
+          </a>
+          {' '}and{' '}
+          <a href="https://stackoverflow.com/users/14270947/jinyoungch0i?tab=profile" className="stackoverflow">
+            stackoverflow
+          </a>
           .
         </p>
         <p>
@@ -38,18 +50,7 @@ export default function Index() {
           <a href="mailto:jinyoungchoi@protonmail.com?subject= let me know on updates to jinyoung.xyz!" className="email">
             reach out
           </a>{' '}
-          and stay on top of updates on here.
-        </p>
-        <p>
-          you can also find me on{' '}
-          <a href="https://github.com/jinyoungch0i" className="github">
-            github
-          </a>
-          {' '}and{' '}
-          <a href="https://stackoverflow.com/users/14270947/jinyoungch0i?tab=profile" className="stackoverflow">
-            stack overflow
-          </a>
-          .
+          to stay on top of updates on here.
         </p>
         <p>
           📍 currently based in nyc.
