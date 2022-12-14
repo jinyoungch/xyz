@@ -11,10 +11,11 @@
   --midground: var(--black-grey);
   --background: var(--white);
   --linkedin: #0072b1;
-  --strava: #ff6f21;
+  --strava: #cb6314;
   --soundcloud: #a853a1;
   --thoughts: #cdd327;
   --github: #5862b1;
+  --stackoverflow: #b12b82;
   --personal: #373e72;
   --work: #4e2626;
   --email: #8154a2;
@@ -161,6 +162,11 @@ blockquote {
 .github,
 .github::selection {
   text-decoration-color: var(--github);
+}
+
+.stackoverflow,
+.stackoverflow::selection {
+  text-decoration-color: var(--stackoverflow);
 }
 
 .email,
