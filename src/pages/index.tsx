@@ -45,6 +45,10 @@ export default function Index() {
           <a href="https://github.com/jinyoungch0i" className="github">
             github
           </a>
+          {' '}and{' '}
+          <a href="https://stackoverflow.com/users/saves/14270947/all" className="stackoverflow">
+            stack overflow
+          </a>
           .
         </p>
         <p>
