@@ -2,6 +2,7 @@
   --font: -apple-system, blinkmacsystemfont, system-ui, sans-serif;
   --main-content: 32rem;
   --main-content-biography: 16rem;
+  --code-content-index: 16.95rem;
   --white: rgba(243, 241, 240, 0.99);
   --white-grey: rgba(243, 241, 240, 0.91);
   --black: #111;
@@ -199,10 +200,6 @@ blockquote {
   justify-content: center;
 }
 
-#code-page-description {
-  font-size: 1.15rem;
-}
-
 .thoughtsPostTitleAndTag {
   display: flex;
   justify-content: space-between;
@@ -254,6 +251,7 @@ blockquote {
 
   #code-page-description {
     font-size: 1rem;
+    max-width: var(--code-content-index);
   }
 
   #biography {

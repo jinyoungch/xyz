@@ -6,6 +6,6 @@ hackathon: no
 live_demo: https://github.com/jinyoungch0i/mac_bluetooth_debugger
 ---
 
-A script that resolves a common macOS Bluetooth connectivity issue. 
+A script that resolves a common macOS Bluetooth connectivity bug. 
 
 [> source code](https://github.com/jinyoungch0i/mac_bluetooth_debugger)
