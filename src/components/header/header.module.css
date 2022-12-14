@@ -56,13 +56,14 @@
 @media only screen and (max-width: 500px) {
 
   .header {
-    margin: 1.15em 0;
+    margin: 11px 0;
+    margin-left: 18px;
   }
 
   .toggle {
     width: 10px;
     height: 21px;
-    margin-right: 1rem;
+    margin-right: 20px;
     margin-top: 5px;
   }
 
