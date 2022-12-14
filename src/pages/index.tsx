@@ -38,7 +38,7 @@ export default function Index() {
           <a href="mailto:jinyoungchoi@protonmail.com?subject= let me know on updates to jinyoung.xyz!" className="email">
             reach out
           </a>{' '}
-          and stay on top of updates here.
+          and stay on top of updates on here.
         </p>
         <p>
           you can also find me on{' '}
