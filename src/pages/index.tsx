@@ -47,7 +47,7 @@ export default function Index() {
         </p>
         <p>
           feel free to {' '}
-          <a href="mailto:jinyoungchoi@protonmail.com?subject=Interested In Subscribing to New Posts at jinyoung.xyz" className="email">
+          <a href="mailto:jinyoungchoi@protonmail.com?subject=Interested In Subscribing to jinyoung.xyz 👋🏼" className="email">
             reach out
           </a>{' '}
           to stay on top of updates on here.
