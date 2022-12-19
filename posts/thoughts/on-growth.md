@@ -21,7 +21,7 @@ When I signed my offer with Babbel, I was intentional about negotiating and land
 
 • I've always been curious about server-side and cloud technologies, in particular the relationship between those domains and the question of scalability
 
-• Lastly, since Babbel has a smaller workforce as a pre-IPO startup, I believed that a software engineer exposing himself to a wide range of skills would be much encouraged.
+• Lastly, since Babbel has a smaller workforce as a pre-IPO startup, I believed that a software engineer exposing himself to a wide range of skills would be much encouraged
 
 Coming up to my first year as a software engineer, I will say that the constant learning that I had expected on this job has, in fact, been the most empowering aspect of my work-life.
 
