@@ -19,7 +19,7 @@ Those six months were, for the most part, spent at home, whereby I devoted mysel
 
 With all the stops I made in the past year and half, I am finding myself returning to the city I have gotten to love: Asheville, North Carolina. 
 
-This is the place that was my homebase during the summer of 2018, where I took up a seasonal job as in [forestry](https://photos.google.com/share/AF1QipP9FlB0t6ai6QTJMRg-DwC5vnGc5ekyJyn63pBYhOZ8ZH0eDExNzjF0PrLoHtolcA?key=Q3B3eW5GbEZJSkNPUmV1RmpVN1hUMy1oRk1YWjR3). 
+This is the place that was my homebase during the summer of 2018, where I took up a seasonal job in [forestry](https://photos.google.com/share/AF1QipP9FlB0t6ai6QTJMRg-DwC5vnGc5ekyJyn63pBYhOZ8ZH0eDExNzjF0PrLoHtolcA?key=Q3B3eW5GbEZJSkNPUmV1RmpVN1hUMy1oRk1YWjR3). 
 
 And my decision to live here for the next six months is my deliberate attempt to reconnect with a place that is so dear to my identity. 
 
