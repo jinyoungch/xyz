@@ -37,7 +37,7 @@ export default function Index() {
         <p>
           my work can be found on{' '}
           <a href="https://stackoverflow.com/users/14270947/jinyoungch0i?tab=questions&sort=newest" className="stackoverflow">
-            stack overflow
+            stackoverflow
           </a>
           {' '}and{' '}
           <a href="https://github.com/jinyoungch0i" className="github">
