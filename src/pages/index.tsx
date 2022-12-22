@@ -36,12 +36,12 @@ export default function Index() {
         </p>
         <p>
           my work can be found on{' '}
-          <a href="https://github.com/jinyoungch0i" className="github">
-            github
+          <a href="https://stackoverflow.com/users/14270947/jinyoungch0i?tab=questions&sort=newest" className="stackoverflow">
+            stack overflow
           </a>
           {' '}and{' '}
-          <a href="https://stackoverflow.com/users/14270947/jinyoungch0i?tab=questions&sort=newest" className="stackoverflow">
-            stackoverflow
+          <a href="https://github.com/jinyoungch0i" className="github">
+            github
           </a>
           .
         </p>

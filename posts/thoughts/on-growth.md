@@ -7,7 +7,7 @@ tag: career
 
 I have found myself navigating through a fair amount of career-related life changes since my last [/thoughts](../thoughts) entry.
 
-Few months after competing in [my first hackathon](https://devpost.com/software/cv_tailor), I started my first software engineering job at Babbel: the cross-platform language learning product. 
+Few months after competing in my first [hackathon](https://devpost.com/software/cv_tailor), I started my first software engineering job at Babbel: the cross-platform language learning product. 
 
 Although I started remotely from [Asheville](https://jinyoung.xyz/thoughts/on-reconnecting), I, along with my cat [Pecan](https://photos.app.goo.gl/uJpisfaPcUG4PWzy8), relocated to NYC earlier in February to work out of Babbel's US office. 
 
@@ -41,11 +41,11 @@ Not to mention throwing into the mix an additional AWS service, namely the AWS S
 
 Coming into this job around a year ago, I did anticipate that a bulk of my work-life would consist of building and maintaining software that had already been brought into existence by people other than myself. 
 
-Those people being folk who are much more experienced than me and with more informed perspectives on how to implement solutions in algorithmically optimised ways.  
+Those people being folk who are experienced and with informed perspectives on how to implement solutions in algorithmically optimised ways.  
 
 To this end, I would like to acknowledge how life-changing it has been to learn from experienced software engineers and to collaborate with them. 
 
-Being one of only a handful of early-career software engineers in a company of ~300 engineers, I feel a unique sense of privilege that empowers me to soak up as much knowledge as I can during my time here. 
+Being one of only a handful of early-career software engineers in a company of ~300 engineers, I feel a unique sense of privilege that has empowered me to soak up as much knowledge as I can during my time here. 
 
 Most importantly, the more I immerse myself in this career path, the more I'm slowly coming to terms with how highly valued ones interpersonal skills are when backed by strong technical skills.
 
