@@ -45,16 +45,6 @@ export default function Index() {
           </a>
           .
         </p>
-        <p>
-          feel free to {' '}
-          <a href="mailto:jinyoungchoi@protonmail.com?subject=Interested In Subscribing to jinyoung.xyz 👋🏼" className="email">
-            reach out
-          </a>{' '}
-          to stay on top of updates on here.
-        </p>
-        <p>
-          📍 currently based in nyc.
-        </p>
       </main>
     </Layout>
   );
