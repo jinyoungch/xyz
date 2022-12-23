@@ -1,7 +1,7 @@
 ---
 title: on curiosity
 date: dec 23 2022
-tldr: leading a life guided curiosity.
+tldr: leading a life guided by curiosity.
 tag: personal
 ---
 
