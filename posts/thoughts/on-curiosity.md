@@ -11,7 +11,7 @@ It tends to be a problem that holds broad implications, and one that **piques my
 
 As of late, I've been spending a lot of time on problems that captivate me in the domain of [software engineering](https://stackoverflow.com/questions/74831564/how-to-minimise-data-loss-when-migrating-a-high-traffic-dynamodb-table-in-order).
 
-With those kinds of problems steadily gaining footing in my headspace, I felt compelled to reflect on a particular time when my curiosity guided me to tackle a rather disparate yet, nonetheless, riveting problem.
+With those kinds of problems steadily gaining footing in my headspace, I felt compelled to reflect on a particular time when my curiosity guided me to tackle a rather unrelated yet riveting problem.
 
 A few years ago, I worked as a research assistant for a professor named [Peter Roberts](https://goizueta.emory.edu/faculty/profiles/peter-roberts) at Emory's Goizueta Business School during my final year of study.
 
@@ -31,7 +31,7 @@ This geographical concept of the coffee belt contributes to the sociopolitical d
 
 • and, relatedly, the [information gatekeeping](https://www.tandfonline.com/doi/abs/10.1080/23802014.2018.1557959) of the west.
 
-With that, it comes as no surprise that producers of coffee have long lacked a clear benchmark for how to best gauge the value of their coffee in the global marketplace.
+With that, it comes as no surprise that coffee producers have long lacked a clear benchmark for how to best gauge the value of their coffee in the global marketplace.
 
 And, naturally, in ways akin to wage negotiations in a job interview, whereby employers traditionally hold the imbalanced power dynamic on salary discussions, farmers have long been undercut for the coffee they harvest. 
 
@@ -53,7 +53,7 @@ it's called the [New York C Price](https://ycharts.com/indicators/new_york_arabi
 
 This figure, hereby referred to as the "C", operates like any other [stock futures](https://seekingalpha.com/article/4437307-what-are-stock-market-futures) in the financial markets. 
 
-*Sidenote: agricultural futures<sup>4</sup>, in particular, tend to exhibit high volatility in the stock market, with the "C" being a [poignant example](https://www.ico.org/news/coffee-break-series-2e.pdf).* 
+*Sidenote: agricultural futures<sup>4</sup>, in particular, tend to exhibit high volatility in the stock market, with the "C" being a [poignant example](https://www.foodsecurityportal.org/).* 
 
 Seasoned coffee traders understand that the "C" is an inappropriate proxy when negotiating prices of green coffee at origin.<sup>5</sup> 
 
@@ -65,13 +65,13 @@ Specialty coffee is a **value added** product which, by its definition<sup>6</su
 
 But what exactly is specialty coffee?
 
-In concrete terms, it's coffee that meets or exceeds a [cupping score of 80](https://www.thirdwavecoffeeroasters.com/blogs/blog/what-is-speciality-coffee-and-how-is-it-graded) when its qualities are assessed by certified industry professionals (known as [Q Graders](https://www.coffeeinstitute.org/certification/people/q-graders)). 
+In concrete terms, it's coffee that meets or exceeds a [cupping score of 80](https://www.thirdwavecoffeeroasters.com/blogs/blog/what-is-speciality-coffee-and-how-is-it-graded) when its qualities are assessed by certified [industry professionals](https://www.coffeeinstitute.org/certification/people/q-graders). 
 
 Specialty coffee can be spotted in the wild with roasters such as [Blue Bottle](https://bluebottlecoffee.com/us/eng/collection/single-origin) that carry it, or through people like [James Hoffmann](https://youtu.be/7SM2Jrot-ZM) who share insights into its culture.
 
 Learning more about specialty coffee, my curiosity towards the topic kept growing— especially with regards to its role within the context of the broken market. 
 
-After all, having been a longtime consumer of commodity and specialty coffee alike, I've witnessed the rising prominence of specialty coffee and sought to better understand the latter's socioeconomic impact in this age-old trade.
+After all, having been a longtime consumer of commodity and specialty coffee alike, I've witnessed the rising prominence of specialty coffee and sought to better understand the latter's role in this age-old trade.
 
 As it turns out, speciality coffee has gradually evolved into an instrument of economic empowerment in the industry— due to its very distinguished value proposition unshackling its producers from the vice-like grip of the "C".
 
@@ -83,7 +83,7 @@ With my growing understanding, I dove deeper into this work and, along the way, 
 
 As a means to empower coffee producers to negotiate more equitable rates for their harvest, I traveled to Guatemala with  colleagues from the business school to host a managerial accounting and marketing [workshop](https://www.youtube.com/watch?v=41O5mTJ_tnU&t=15s).
 
-Shortly after, [I headed to Tanzania](https://drive.google.com/file/d/13skTHbeOnTvYvPPq2eBlGeugpEM2kCSu/view?usp=sharing) to explore the growing public/private sector investments in its emerging specialty coffee scene; attempting to grasp the subtle nuances of the country's shift towards smallholder capacity building and direct trade initiatives from its past of unified, government-mandated cooperative mechanisms.<sup>7</sup>  
+Shortly after, [I headed to Tanzania](https://drive.google.com/file/d/13skTHbeOnTvYvPPq2eBlGeugpEM2kCSu/view?usp=sharing) to explore the growing public/private sector investments in its emerging specialty scene; attempting to grasp the subtle nuances of the country's shift towards smallholder capacity building and direct trade initiatives from its past of unified, government-mandated cooperative mechanisms.<sup>7</sup>  
 
 Here are some [photos](https://photos.app.goo.gl/phhvnWo5731pDw8J9) from those trips. 
 
@@ -91,7 +91,9 @@ Despite moving on from this work with my growing involvement in the software ind
 
 I cherish this time; it's best characterised by unrelenting curiosity and —truly— never-ending learning.
 
-There is just so much to learn about in the world, and I hope to use this as a reminder to continue to shape my life and career around the ongoing exploration of curiosity.  
+There is just so much to learn about in the world, and I hope to use this as a reminder;
+ 
+to continue to shape my life and career around the ongoing exploration of curiosity.  
 
 <hr>
 
@@ -105,8 +107,8 @@ There is just so much to learn about in the world, and I hope to use this as a r
 
 <sup>4</sup> Agricultural commodity futures, coffee included, are also known as [soft commodities](https://www.investopedia.com/terms/s/softcommodity.asp#:~:text=Understanding%20Soft%20Commodities&text=Due%20to%20the%20uncertainties%20of,more%20volatile%20than%20other%20futures.).
 
-<sup>5</sup> Green coffee, referring to pre-roasted coffee beans, is one of many industry terms that highlight the intricacies of the trade, such as [FOB](https://youtu.be/s_8-s8wqhx4?t=34).
+<sup>5</sup> Green coffee, referring to pre-roasted coffee beans, is one of many industry terms that highlight the intricacies of coffee's supply chain, such as [FOB](https://youtu.be/s_8-s8wqhx4?t=34).
 
 <sup>6</sup> The [distinction](https://static1.squarespace.com/static/584f6bbef5e23149e5522201/t/61656536b3ef6570d80794cc/1634035009273/Attributes+Framework+Whitepaper+2021+-+Release+1.2+Reduced.pdf) between commodity and specialty coffee was not  explored comprehensively for the sake of brevity.
 
-<sup>7</sup>More on the [history](https://web.archive.org/web/20090903224807/http://www.usaid.gov/stories/tanzania/cs_tanzania_coffee.html) of Tanzania's coffee sector.   
+<sup>7</sup> More on the [history](https://web.archive.org/web/20090903224807/http://www.usaid.gov/stories/tanzania/cs_tanzania_coffee.html) of Tanzania's coffee sector.   
