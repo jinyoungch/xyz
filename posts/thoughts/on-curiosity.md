@@ -1,13 +1,13 @@
 ---
 title: on curiosity
 date: dec 23 2022
-tldr: leading a life guided by curiosity.
+tldr: a life guided by curiosity.
 tag: personal
 ---
 
 I recently came to realise that in times when I feel most 'engaged', I'm chipping away at an unsolved problem.
 
-It tends to be a problem that holds broad implications, and one that **piques my curiosity** due to its complexity. 
+It tends to be a problem that holds broad implications, and one that piques my curiosity due to its complexity. 
 
 As of late, I've been spending a lot of time on problems that captivate me in the domain of [software engineering](https://stackoverflow.com/questions/74831564/how-to-minimise-data-loss-when-migrating-a-high-traffic-dynamodb-table-in-order).
 
@@ -75,15 +75,15 @@ After all, having been a longtime consumer of commodity and specialty coffee ali
 
 As it turns out, speciality coffee has gradually evolved into an instrument of economic empowerment in the industry— due to its very distinguished value proposition unshackling its producers from the vice-like grip of the "C".
 
-Participating in the free market with meritocracy at play, producers of specialty coffee are incentivised to cultivate industry gold standards [across the globe](https://allianceforcoffeeexcellence.org/brazil-2021/#1640023456252-075acb18-b088)— 
+Participating in the free market, producers of specialty coffee are incentivised to cultivate industry gold standards [across the globe](https://allianceforcoffeeexcellence.org/brazil-2021/#1640023456252-075acb18-b088)— 
 
 **giving rise to industry-wide pricing transparency and reducing the aforementioned information gap**. 
 
 With my growing understanding, I dove deeper into this work and, along the way, had a couple of opportunities to apply my knowledge of the specialty coffee market beyond the abstract.
 
-As a means to empower coffee producers to negotiate more equitable rates for their harvest, I traveled to Guatemala with  colleagues from the business school to host a managerial accounting and marketing [workshop](https://www.youtube.com/watch?v=41O5mTJ_tnU&t=15s).
+To brainstorm with coffee producers on ways to negotiate more equitable rates for their harvest, I traveled to Guatemala with  colleagues from the business school to host a managerial accounting and marketing [workshop](https://www.youtube.com/watch?v=41O5mTJ_tnU&t=15s).
 
-Shortly after, [I headed to Tanzania](https://drive.google.com/file/d/13skTHbeOnTvYvPPq2eBlGeugpEM2kCSu/view?usp=sharing) to explore the growing public/private sector investments in its emerging specialty scene; attempting to grasp the subtle nuances of the country's shift towards smallholder capacity building and direct trade initiatives from its past of unified, government-mandated cooperative mechanisms.<sup>7</sup>  
+Shortly after, [I headed to Tanzania](https://drive.google.com/file/d/13skTHbeOnTvYvPPq2eBlGeugpEM2kCSu/view?usp=sharing) to explore the growing public/private sector investments in its emerging specialty scene; attempting to grasp the subtle nuances of the country's shift towards smallholder capacity building and direct trade initiatives from its past of unified, government-mandated cooperative mechanisms.<sup>7</sup>
 
 Here are some [photos](https://photos.app.goo.gl/phhvnWo5731pDw8J9) from those trips. 
 
@@ -99,13 +99,13 @@ to continue to shape my life and career around the ongoing exploration of curios
 
 **Footnotes**
 
-<sup>1</sup> The [high cost](https://dailycoffeenews.com/2019/05/30/the-cost-of-financially-sustainable-coffee-production-a-study-by-fair-trade-usa-and-cornell-university/) of production of coffee relative to its market value is [not a new concept](http://www.ico.org/documents/cy2015-16/icc-117-6e-economic-sustainability.pdf?utm_source=ICO+Public+List&utm_campaign=1f5939c2cf-6th-Forum-Coffee-Sector-Finance-22Aug16-PR&utm_medium=email&utm_term=0_61b9999858-1f5939c2cf-246084033&mc_cid=1f5939c2cf). 
+<sup>1</sup> The [high cost](https://dailycoffeenews.com/2019/05/30/the-cost-of-financially-sustainable-coffee-production-a-study-by-fair-trade-usa-and-cornell-university/) of coffee production relative to its market value is [not a new concept](http://www.ico.org/documents/cy2015-16/icc-117-6e-economic-sustainability.pdf?utm_source=ICO+Public+List&utm_campaign=1f5939c2cf-6th-Forum-Coffee-Sector-Finance-22Aug16-PR&utm_medium=email&utm_term=0_61b9999858-1f5939c2cf-246084033&mc_cid=1f5939c2cf). 
 
 <sup>2</sup> Not to dismiss the obvious and quantifiable differences between the two, of course. Not a wine expert!
 
 <sup>3</sup> [Here](https://www.investopedia.com/terms/v/valueadded.asp)'s a more detailed explanation of value added.
 
-<sup>4</sup> Agricultural commodity futures, coffee included, are also known as [soft commodities](https://www.investopedia.com/terms/s/softcommodity.asp#:~:text=Understanding%20Soft%20Commodities&text=Due%20to%20the%20uncertainties%20of,more%20volatile%20than%20other%20futures.).
+<sup>4</sup> Agricultural commodity futures are also known as [soft commodities](https://www.investopedia.com/terms/s/softcommodity.asp#:~:text=Understanding%20Soft%20Commodities&text=Due%20to%20the%20uncertainties%20of,more%20volatile%20than%20other%20futures.).
 
 <sup>5</sup> Green coffee, referring to pre-roasted coffee beans, is one of many industry terms that highlight the intricacies of coffee's supply chain, such as [FOB](https://youtu.be/s_8-s8wqhx4?t=34).
 
