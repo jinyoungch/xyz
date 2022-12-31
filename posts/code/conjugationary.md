@@ -1,9 +1,9 @@
 ---
-title: Conjugationary
+title: conjugationary
 date: mar 15 2022
 stack: TypeScript, Node, SQLite, OpenAI, AWS, Puppeteer
-hackathon: Babbel https://babbel.com/
+hackathon: babbel https://www.babbel.com/en/magazine/natural-language-processing
 live_demo: https://conjugationary.babbel.lol/
 ---
 
-A dictionary that generates AI-driven definitions/examples, determines [verb complexity](https://www.babbel.com/en/magazine/natural-language-processing), and finds verb appearance(s) on the [Babbel Magazine](https://www.babbel.com/en/magazine/).
+ai-driven conjugation dictionary for 17,000+ verbs.
