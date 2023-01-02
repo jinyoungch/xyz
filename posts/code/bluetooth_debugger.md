@@ -1,5 +1,5 @@
 ---
-title: bluetooth_debugger
+title: bluetooth debugger
 date: mar 31 2021
 stack: Bash, Node, Python
 hackathon: no

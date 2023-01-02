@@ -31,7 +31,7 @@ On the surface, the project initially appeared to warrant a frontend expertise:
 
 *...query the exposed endpoint of the CMS, have the client handle the JSON API response, re-work state management to update rendering logic...*
 
-While the above was the gist of the task-at-hand, I quickly learned that this project additionally involved **making adaptations to Babbel's broader infrastructure**. 
+While the above was the gist of the task at hand, I quickly learned that this project additionally involved **making adaptations to Babbel's broader infrastructure**. 
 
 In this case, the client-side application in question is served via a serverless AWS Lambda function, which is routed via an Amazon API Gateway. 
 

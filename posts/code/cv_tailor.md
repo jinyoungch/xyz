@@ -1,5 +1,5 @@
 ---
-title: cv_tailor
+title: cv tailor
 date: feb 28 2021
 stack: Python, Google Firebase
 hackathon: warwickhack https://warwickhack-2021.devpost.com/

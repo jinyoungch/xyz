@@ -33,16 +33,15 @@ export default function Post({
   return (
     <section className={styles.post}>
       <hgroup>
-        {isThoughtsEntry || isCodeEntry ? (
-          <Link 
-            href={isThoughtsEntry ? "/thoughts/[slug]" : `${live_demo}`} 
-            as={isThoughtsEntry ? `/thoughts/${slug}` : `${live_demo}`}
-          >
-            {isCodeEntry ? (
-              <a>
-                <h2>{title}<kbd> ↵</kbd></h2>
-              </a>
-            ): (
+        {isCodeEntry && (
+          <Link href={`${live_demo}`} as={`${live_demo}`}>
+            <a>
+              <h2>{title}<kbd> ↵</kbd></h2>
+            </a>
+          </Link>
+        )}
+        {isThoughtsEntry && (
+          <Link href={"/thoughts/[slug]"} as={`/thoughts/${slug}`} passHref>
             <div className='thoughtsPostTitleAndTag'>
               <a>
                 <h2>{title}</h2>
@@ -51,10 +50,17 @@ export default function Post({
                 <code className={postTagBackgroundGenerator(tag)}>{tag}</code>
               </a>
             </div>  
-            )}
           </Link>
-        ) : (
-          <h2>{title}</h2>
+        )}
+        {/* for when posts are clicked; only applies to /thoughts posts */}
+        {/* because the /code posts are hyperlinked to demo/sourcecode paths */}
+        {(!isCodeEntry && !isThoughtsEntry) && (
+          <div className='thoughtsPostTitleAndTag'>
+            <h2>{title}</h2>
+            <a>
+              <code className={postTagBackgroundGenerator(tag)}>{tag}</code>
+            </a>
+        </div>  
         )}
         <h3 className='date'>{date} {readingMins !== 0 ? `| ⏳: ${readingMins} mins` : null}</h3>
       </hgroup>

@@ -13,7 +13,7 @@ As of late, I've been spending a lot of time on problems that captivate me in th
 
 With those kinds of problems steadily gaining footing in my headspace, I felt compelled to reflect on a particular time when my curiosity steered me towards a rather unrelated yet riveting problem.
 
-A few years ago, I worked as a research assistant for a professor named [Peter Roberts](https://goizueta.emory.edu/faculty/profiles/peter-roberts) at Emory's Goizueta Business School during my final year of study.
+A few years ago, I worked as a research assistant for a professor named [Peter Roberts](https://goizueta.emory.edu/faculty/profiles/peter-roberts) at Emory's Goizueta Business School.
 
 Peter's research is fascinating: 
 
@@ -45,7 +45,7 @@ Think of it like wine, whereby a Chardonnay produced in a multigenerational, fam
 
 Economists have a term for this phenomenon, namely **value added**.<sup>4</sup> 
 
-Value added serves to illustrate how the rich, cultural narratives of the multigenerational wine contribute to its perceived, behavioural-economics driven brand value. 
+Value added serves to illustrate how the rich, cultural narratives of the multigenerational wine contribute to its perceived, behavioural economics-driven brand value. 
 
 With all said and done, there actually exists somewhat of a financial benchmark that purports to speak to the 'market value' of commodity coffee: 
 
@@ -97,11 +97,11 @@ The world is a playground for the curious, and I hope to continue to shape my li
 
 **Footnotes**
 
-<sup>1</sup> [Prices](https://fred.stlouisfed.org/graph/?g=Ye1N) in coffee's largest end market.
+<sup>1</sup> Prices in coffee's [largest end market](https://fred.stlouisfed.org/graph/?g=Ye1N).
 
 <sup>2</sup> The [high cost](https://dailycoffeenews.com/2019/05/30/the-cost-of-financially-sustainable-coffee-production-a-study-by-fair-trade-usa-and-cornell-university/) of production relative to coffee's market value is [nothing new](http://www.ico.org/documents/cy2015-16/icc-117-6e-economic-sustainability.pdf?utm_source=ICO+Public+List&utm_campaign=1f5939c2cf-6th-Forum-Coffee-Sector-Finance-22Aug16-PR&utm_medium=email&utm_term=0_61b9999858-1f5939c2cf-246084033&mc_cid=1f5939c2cf). 
 
-<sup>3</sup> Not to dismiss the obvious and quantifiable differences.
+<sup>3</sup> Not to dismiss the quantifiable differences.
 
 <sup>4</sup> More on [value added](https://www.investopedia.com/terms/v/valueadded.asp).
 
@@ -111,4 +111,4 @@ The world is a playground for the curious, and I hope to continue to shape my li
 
 <sup>7</sup> The [distinction](https://static1.squarespace.com/static/584f6bbef5e23149e5522201/t/61656536b3ef6570d80794cc/1634035009273/Attributes+Framework+Whitepaper+2021+-+Release+1.2+Reduced.pdf) between commodity and specialty coffee was not explored comprehensively for the sake of brevity.
 
-<sup>8</sup> More on Tanzania's [history](https://web.archive.org/web/20090903224807/http://www.usaid.gov/stories/tanzania/cs_tanzania_coffee.html).
+<sup>8</sup> More on [Tanzania](https://web.archive.org/web/20090903224807/http://www.usaid.gov/stories/tanzania/cs_tanzania_coffee.html).
