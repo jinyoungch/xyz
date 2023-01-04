@@ -6,4 +6,4 @@ hackathon: babbel https://www.babbel.com/en/magazine/natural-language-processing
 live_demo: https://conjugationary.babbel.lol/
 ---
 
-ai-driven conjugation dictionary for 17,000+ verbs.
+ai-enabled conjugation dictionary for 17,000+ verbs.

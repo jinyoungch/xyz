@@ -19,7 +19,7 @@ Peter's research is fascinating:
 
 **what explains the gap between the coffee prices we pay as consumers<sup>1</sup> and the compensation of coffee farmers?**
 
-Peter's research found that a big part of why this gap exists has a lot to do with the farmers' lack of awareness— specifically with regards to their coffee's [objective market value](https://youtu.be/Vw2FlVV3N3c?t=130).
+Peter found that a big part of why this gap exists has a lot to do with the farmers' lack of awareness— specifically with regards to their coffee's [objective market value](https://youtu.be/Vw2FlVV3N3c?t=130).
 
 In most cases, **coffee producers**— whether that term refers to farmers who work the land, or representatives who liaise between the farmers and the external buyers— live and work in some of the most remote parts of the world, along what is known as the [coffee belt](https://en.wikipedia.org/wiki/Coffee_bean#/media/File:Bean_belt_(top_20_coffee_producers_2011).svg).
 
@@ -35,7 +35,7 @@ And, naturally, in ways akin to wage negotiations in a job interview, whereby em
 
 Sometimes this undercutting is so severe that farmers routinely report lower profit margins relative to their production costs<sup>2</sup>, made even worse by an ever-increasing set of [climatic](https://sites.lsa.umich.edu/sustainablefoodsystems/2015/09/18/coffee-killer-tracking-la-roya-the-fungus-threatening-coffees-future/) and [geopolitical](https://intelligence.coffee/2022/03/fertiliser-prices-coffee-growing-conflict-ukraine/) challenges.
 
-to the point where many are forced to take on unrecoverable debts, and more perniciously, declare bankruptcy due to their insatiable operational costs.
+Hence, many producers are forced to take on unrecoverable debts, and more perniciously, declare bankruptcy due to their insatiable operational costs.
 
 What's important to note here is that beyond the financials of the coffee business lie a host of intangible factors that add to its overall value.
 
@@ -97,7 +97,7 @@ The world is a playground for the curious, and I hope to continue to shape my li
 
 <sup>1</sup> Prices in coffee's [largest end market](https://fred.stlouisfed.org/graph/?g=Ye1N).
 
-<sup>2</sup> The [high cost](https://dailycoffeenews.com/2019/05/30/the-cost-of-financially-sustainable-coffee-production-a-study-by-fair-trade-usa-and-cornell-university/) of production relative to coffee's market value is [nothing new](http://www.ico.org/documents/cy2015-16/icc-117-6e-economic-sustainability.pdf?utm_source=ICO+Public+List&utm_campaign=1f5939c2cf-6th-Forum-Coffee-Sector-Finance-22Aug16-PR&utm_medium=email&utm_term=0_61b9999858-1f5939c2cf-246084033&mc_cid=1f5939c2cf).
+<sup>2</sup> More on [historically](http://www.ico.org/documents/cy2015-16/icc-117-6e-economic-sustainability.pdf?utm_source=ICO+Public+List&utm_campaign=1f5939c2cf-6th-Forum-Coffee-Sector-Finance-22Aug16-PR&utm_medium=email&utm_term=0_61b9999858-1f5939c2cf-246084033&mc_cid=1f5939c2cf) [high](https://dailycoffeenews.com/2019/05/30/the-cost-of-financially-sustainable-coffee-production-a-study-by-fair-trade-usa-and-cornell-university/) cost of coffee production.
 
 <sup>3</sup> Not to dismiss the quantifiable differences.
 
