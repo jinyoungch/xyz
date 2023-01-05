@@ -35,7 +35,7 @@ And, naturally, in ways akin to wage negotiations in a job interview, whereby em
 
 Sometimes this undercutting is so severe that farmers routinely report lower profit margins relative to their production costs<sup>2</sup>, made even worse by an ever-increasing set of [climatic](https://sites.lsa.umich.edu/sustainablefoodsystems/2015/09/18/coffee-killer-tracking-la-roya-the-fungus-threatening-coffees-future/) and [geopolitical](https://intelligence.coffee/2022/03/fertiliser-prices-coffee-growing-conflict-ukraine/) challenges.
 
-Hence, many producers are forced to take on unrecoverable debts, and more perniciously, declare bankruptcy due to their insatiable operational costs.
+Hence, many producers are forced to take on unrecoverable debts and, more perniciously, declare bankruptcy due to their insatiable operational costs.
 
 What's important to note here is that beyond the financials of the coffee business lie a host of intangible factors that add to its overall value.
 
