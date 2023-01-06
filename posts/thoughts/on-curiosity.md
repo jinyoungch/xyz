@@ -17,7 +17,7 @@ A few years ago, I worked as a research assistant for a professor named [Peter R
 
 Peter's research is fascinating:
 
-**what explains the gap between the coffee prices we pay as consumers<sup>1</sup> and the compensation of coffee farmers?**
+**what explains the gap between the prices we pay for coffee<sup>1</sup> and the compensation of its farmers?**
 
 Peter found that a big part of why this gap exists has a lot to do with the farmers' lack of awareness— specifically with regards to their coffee's [objective market value](https://youtu.be/Vw2FlVV3N3c?t=130).
 
@@ -95,11 +95,11 @@ The world is a playground for the curious, and I hope to continue to shape my li
 
 **Footnotes**
 
-<sup>1</sup> Prices in coffee's [largest end market](https://fred.stlouisfed.org/graph/?g=Ye1N).
+<sup>1</sup> Coffee prices in its [largest end market](https://fred.stlouisfed.org/graph/?g=Ye1N).
 
-<sup>2</sup> More on [historically](http://www.ico.org/documents/cy2015-16/icc-117-6e-economic-sustainability.pdf?utm_source=ICO+Public+List&utm_campaign=1f5939c2cf-6th-Forum-Coffee-Sector-Finance-22Aug16-PR&utm_medium=email&utm_term=0_61b9999858-1f5939c2cf-246084033&mc_cid=1f5939c2cf) [high](https://dailycoffeenews.com/2019/05/30/the-cost-of-financially-sustainable-coffee-production-a-study-by-fair-trade-usa-and-cornell-university/) cost of coffee production.
+<sup>2</sup> More on the [historically](http://www.ico.org/documents/cy2015-16/icc-117-6e-economic-sustainability.pdf?utm_source=ICO+Public+List&utm_campaign=1f5939c2cf-6th-Forum-Coffee-Sector-Finance-22Aug16-PR&utm_medium=email&utm_term=0_61b9999858-1f5939c2cf-246084033&mc_cid=1f5939c2cf) [high](https://dailycoffeenews.com/2019/05/30/the-cost-of-financially-sustainable-coffee-production-a-study-by-fair-trade-usa-and-cornell-university/) cost of coffee production.
 
-<sup>3</sup> Not to dismiss the quantifiable differences.
+<sup>3</sup> Not to dismiss quantifiable differences.
 
 <sup>4</sup> More on [value added](https://www.investopedia.com/terms/v/valueadded.asp).
 
@@ -107,6 +107,6 @@ The world is a playground for the curious, and I hope to continue to shape my li
 
 <sup>6</sup> 'Green coffee' (ie. pre-roasted beans) highlights the intricacies of coffee's supply chain, such as [FOB](https://youtu.be/s_8-s8wqhx4?t=34).
 
-<sup>7</sup> The [distinction](https://static1.squarespace.com/static/584f6bbef5e23149e5522201/t/61656536b3ef6570d80794cc/1634035009273/Attributes+Framework+Whitepaper+2021+-+Release+1.2+Reduced.pdf) between commodity and specialty coffee was not explored comprehensively for the sake of brevity.
+<sup>7</sup> More on the specialty coffee [definition](https://static1.squarespace.com/static/584f6bbef5e23149e5522201/t/61656536b3ef6570d80794cc/1634035009273/Attributes+Framework+Whitepaper+2021+-+Release+1.2+Reduced.pdf).
 
-<sup>8</sup> More on [Tanzania](https://web.archive.org/web/20090903224807/http://www.usaid.gov/stories/tanzania/cs_tanzania_coffee.html).
+<sup>8</sup> More on [Tanzania's history](https://web.archive.org/web/20090903224807/http://www.usaid.gov/stories/tanzania/cs_tanzania_coffee.html).
