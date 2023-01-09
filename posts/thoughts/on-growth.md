@@ -27,7 +27,7 @@ Coming up to my first year as a software engineer, I will say that the constant 
 
 Just recently, I've had the chance to lead a [Headless CMS](https://youtu.be/-Uor3I0n_vQ?t=11) integration for one of our client-side applications that logs around half a million monthly users.
 
-On the surface, the project initially appeared to warrant a frontend expertise— something that my self-education into this industry was focused on:
+On the surface, the project initially appeared to require skills on frontend development— a domain that my self-education was once focused on:
 
 *...query the exposed endpoint of the CMS, have the client handle the JSON API response, re-work state management to update rendering logic...*
 
