@@ -17,13 +17,13 @@ export default function Index() {
         />
       </div>
       <main id="biography">
-        <p>
+        {/* <p>
         polyglot,{' '}
          <a className="linkedin" href="https://www.linkedin.com/in/jinyoungch0i/">software engineer</a>
         , <a className="soundcloud" href="https://soundcloud.com/jinyoungch0i">instrumentalist</a> 
         , and <a className="strava" href="https://www.strava.com/athletes/24642494">cyclist</a>
         .
-        </p>
+        </p> */}
         <p>i {' '}
           <Link href="/thoughts">
             <a className="thoughts">write</a>
