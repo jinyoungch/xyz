@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Layout } from '../components';
-import profilePhoto from '../../public/jeju.png'
+import profilePhoto from '../../public/jeju.jpeg'
 
 export default function Index() {
   return (
