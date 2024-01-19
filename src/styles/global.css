@@ -217,8 +217,12 @@ blockquote {
   color: var(--white);
 }
 
-.footnote-link-body, .footnote-link-foot {
+.footnote-link-body {
   font-size: 0.85rem;
+}
+
+.footnote-link-foot {
+  text-decoration: none;
 }
 
 @media only screen and (max-width: 500px) {

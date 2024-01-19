@@ -95,18 +95,18 @@ The world is a playground for the curious, and I hope to continue to shape my li
 
 **Footnotes**
 
-<sup class="footnote-link-foot">1</sup> Coffee prices in its [largest end market](https://fred.stlouisfed.org/graph/?g=Ye1N). <a id="fnref1-foot" target="_self" class="footnote-link-foot" href="#fnref1-body" >↩︎</a>
+<sup class="footnote-link-foot">[1]</sup> Coffee prices in its [largest end market](https://fred.stlouisfed.org/graph/?g=Ye1N). <a id="fnref1-foot" target="_self" class="footnote-link-foot" href="#fnref1-body" >↩︎</a>
 
-<sup class="footnote-link-foot">2</sup> More on the [historically](http://www.ico.org/documents/cy2015-16/icc-117-6e-economic-sustainability.pdf?utm_source=ICO+Public+List&utm_campaign=1f5939c2cf-6th-Forum-Coffee-Sector-Finance-22Aug16-PR&utm_medium=email&utm_term=0_61b9999858-1f5939c2cf-246084033&mc_cid=1f5939c2cf) [high](https://dailycoffeenews.com/2019/05/30/the-cost-of-financially-sustainable-coffee-production-a-study-by-fair-trade-usa-and-cornell-university/) cost of coffee production. <a id="fnref2-foot" target="_self" class="footnote-link-foot" href="#fnref2-body">↩︎</a>
+<sup class="footnote-link-foot">[2]</sup> More on the [historically](http://www.ico.org/documents/cy2015-16/icc-117-6e-economic-sustainability.pdf?utm_source=ICO+Public+List&utm_campaign=1f5939c2cf-6th-Forum-Coffee-Sector-Finance-22Aug16-PR&utm_medium=email&utm_term=0_61b9999858-1f5939c2cf-246084033&mc_cid=1f5939c2cf) [high](https://dailycoffeenews.com/2019/05/30/the-cost-of-financially-sustainable-coffee-production-a-study-by-fair-trade-usa-and-cornell-university/) cost of coffee production. <a id="fnref2-foot" target="_self" class="footnote-link-foot" href="#fnref2-body">↩︎</a>
 
-<sup class="footnote-link-foot">3</sup> Not to dismiss quantifiable differences. <a id="fnref3-foot" target="_self" class="footnote-link-foot" href="#fnref3-body">↩︎</a>
+<sup class="footnote-link-foot">[3]</sup> Not to dismiss quantifiable differences. <a id="fnref3-foot" target="_self" class="footnote-link-foot" href="#fnref3-body">↩︎</a>
 
-<sup class="footnote-link-foot">4</sup> More on [value added](https://www.investopedia.com/terms/v/valueadded.asp). <a id="fnref4-foot" target="_self" class="footnote-link-foot" href="#fnref4-body">↩︎</a>
+<sup class="footnote-link-foot">[4]</sup> More on [value added](https://www.investopedia.com/terms/v/valueadded.asp). <a id="fnref4-foot" target="_self" class="footnote-link-foot" href="#fnref4-body">↩︎</a>
 
-<sup class="footnote-link-foot">5</sup> Agricultural futures are also known as [soft commodities](https://www.investopedia.com/terms/s/softcommodity.asp#:~:text=Understanding%20Soft%20Commodities&text=Due%20to%20the%20uncertainties%20of,more%20volatile%20than%20other%20futures.). <a id="fnref5-foot" target="_self" class="footnote-link-foot" href="#fnref5-body">↩︎</a>
+<sup class="footnote-link-foot">[5]</sup> Agricultural futures are also known as [soft commodities](https://www.investopedia.com/terms/s/softcommodity.asp#:~:text=Understanding%20Soft%20Commodities&text=Due%20to%20the%20uncertainties%20of,more%20volatile%20than%20other%20futures.). <a id="fnref5-foot" target="_self" class="footnote-link-foot" href="#fnref5-body">↩︎</a>
 
-<sup class="footnote-link-foot">6</sup> 'Green coffee' (ie. pre-roasted beans) highlights the intricacies of coffee's supply chain, such as [FOB](https://youtu.be/s_8-s8wqhx4?t=34). <a id="fnref6-foot" target="_self" class="footnote-link-foot" href="#fnref6-body">↩︎</a>
+<sup class="footnote-link-foot">[6]</sup> 'Green coffee' (ie. pre-roasted beans) highlights the intricacies of coffee's supply chain, such as [FOB](https://youtu.be/s_8-s8wqhx4?t=34). <a id="fnref6-foot" target="_self" class="footnote-link-foot" href="#fnref6-body">↩︎</a>
 
-<sup class="footnote-link-foot">7</sup> More on the specialty coffee [definition](https://static1.squarespace.com/static/584f6bbef5e23149e5522201/t/61656536b3ef6570d80794cc/1634035009273/Attributes+Framework+Whitepaper+2021+-+Release+1.2+Reduced.pdf). <a id="fnref7-foot" target="_self" class="footnote-link-foot" href="#fnref7-body">↩︎</a>
+<sup class="footnote-link-foot">[7]</sup> More on the specialty coffee [definition](https://static1.squarespace.com/static/584f6bbef5e23149e5522201/t/61656536b3ef6570d80794cc/1634035009273/Attributes+Framework+Whitepaper+2021+-+Release+1.2+Reduced.pdf). <a id="fnref7-foot" target="_self" class="footnote-link-foot" href="#fnref7-body">↩︎</a>
 
-<sup class="footnote-link-foot">8</sup> More on [Tanzania's history](https://web.archive.org/web/20090903224807/http://www.usaid.gov/stories/tanzania/cs_tanzania_coffee.html). <a id="fnref8-foot" target="_self" class="footnote-link-foot" href="#fnref8-body">↩︎</a>
+<sup class="footnote-link-foot">[8]</sup> More on [Tanzania's history](https://web.archive.org/web/20090903224807/http://www.usaid.gov/stories/tanzania/cs_tanzania_coffee.html). <a id="fnref8-foot" target="_self" class="footnote-link-foot" href="#fnref8-body">↩︎</a>
