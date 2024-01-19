@@ -1,6 +1,6 @@
 ---
 title: on building
-date: sep 16 2020
+date: 2020-09-16
 tldr: console.log('hello world')
 tag: career
 ---

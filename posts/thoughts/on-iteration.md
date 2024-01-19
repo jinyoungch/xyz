@@ -1,6 +1,6 @@
 ---
 title: on iteration
-date: feb 27 2021
+date: 2021-02-27
 tldr: career development and its iterative nature.
 tag: career
 ---

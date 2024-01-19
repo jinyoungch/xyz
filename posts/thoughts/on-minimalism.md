@@ -1,6 +1,6 @@
 ---
 title: on minimalism
-date: sep 20 2020
+date: 2020-09-20
 tldr: applying minimalism to building on the web.
 tag: career
 ---

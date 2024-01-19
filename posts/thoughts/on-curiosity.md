@@ -1,6 +1,6 @@
 ---
 title: on curiosity
-date: dec 23 2022
+date: 2022-12-23
 tldr: curiosity as a guiding force.
 tag: personal
 ---

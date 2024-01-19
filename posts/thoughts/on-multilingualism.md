@@ -1,6 +1,6 @@
 ---
 title: on multilingualism
-date: sep 25 2020
+date: 2020-09-25
 tldr: overlaps in programming and multilingualism.
 tag: career
 ---

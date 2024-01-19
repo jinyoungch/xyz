@@ -1,6 +1,6 @@
 ---
 title: on reconnecting
-date: oct 5 2020
+date: 2020-10-05
 tldr: belonging and self-identity in the appalachians.
 tag: personal
 ---

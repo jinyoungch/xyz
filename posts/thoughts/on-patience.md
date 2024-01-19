@@ -1,6 +1,6 @@
 ---
 title: on patience
-date: oct 23 2020
+date: 2020-10-23
 tldr: learning javascript for the first time.
 tag: career
 ---

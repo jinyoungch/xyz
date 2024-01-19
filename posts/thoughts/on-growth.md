@@ -1,6 +1,6 @@
 ---
 title: on growth
-date: oct 03 2022
+date: 2022-10-03
 tldr: navigating on-the-job learning.
 tag: career
 ---

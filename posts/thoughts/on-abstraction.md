@@ -1,6 +1,6 @@
 ---
 title: on abstraction
-date: sep 18 2020
+date: 2020-09-18
 tldr: concept of abstraction and learning to code.
 tag: career
 ---

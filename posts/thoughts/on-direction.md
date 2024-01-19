@@ -1,6 +1,6 @@
 ---
 title: on direction
-date: oct 11 2020
+date: 2020-10-11
 tldr: self-teaching and unlearning.
 tag: career
 ---

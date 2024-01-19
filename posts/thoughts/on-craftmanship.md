@@ -1,6 +1,6 @@
 ---
 title: on craftmanship
-date: sep 17 2020
+date: 2020-09-17
 tldr: programming as a craft.
 tag: career
 ---
