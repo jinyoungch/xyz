@@ -17,7 +17,7 @@ A few years ago, I worked as a research assistant for a professor named [Peter R
 
 Peter's research is fascinating:
 
-**what explains the gap between the prices we pay for coffee<sup><a target="_self" href="#fnref1" id="fnref1">[1]</a></sup> and the compensation of its farmers?**
+**what explains the gap between the prices we pay for coffee<sup><a class="footnote-body" target="_self" href="#fnref1" id="fnref1">[1]</a></sup> and the compensation of its farmers?**
 
 Peter found that a big part of why this gap exists has a lot to do with the farmers' lack of awareness— specifically with regards to their coffee's [objective market value](https://youtu.be/Vw2FlVV3N3c?t=130).
 
@@ -33,15 +33,15 @@ With that, it comes as no surprise that coffee producers have long lacked a clea
 
 And, naturally, in ways akin to wage negotiations in a job interview, whereby employers traditionally hold the imbalanced power dynamic on salary discussions, farmers have long been undercut for the coffee they harvest.
 
-Sometimes this undercutting is so severe that farmers routinely report lower profit margins relative to their production costs<sup>[2](https://jinyoung.xyz/thoughts/on-curiosity/#fn2)</sup>, made even worse by an ever-increasing set of [climatic](https://sites.lsa.umich.edu/sustainablefoodsystems/2015/09/18/coffee-killer-tracking-la-roya-the-fungus-threatening-coffees-future/) and [geopolitical](https://intelligence.coffee/2022/03/fertiliser-prices-coffee-growing-conflict-ukraine/) challenges.
+Sometimes this undercutting is so severe that farmers routinely report lower profit margins relative to their production costs<sup><a class="footnote-body" target="_self" href="#fnref2" id="fnref2">[2]</a></sup>, made even worse by an ever-increasing set of [climatic](https://sites.lsa.umich.edu/sustainablefoodsystems/2015/09/18/coffee-killer-tracking-la-roya-the-fungus-threatening-coffees-future/) and [geopolitical](https://intelligence.coffee/2022/03/fertiliser-prices-coffee-growing-conflict-ukraine/) challenges.
 
 Hence, many producers are forced to take on unrecoverable debts and, more perniciously, declare bankruptcy due to their insatiable operational costs.
 
 What's important to note here is that beyond the financials of the coffee business lie a host of intangible factors that add to its overall value.
 
-Think of it like wine, whereby a Chardonnay produced in a multigenerational, family-owned vineyard in Napa Valley sells for more than an unassuming ["two buck chuck"](https://en.wikipedia.org/wiki/Charles_Shaw_wine); ironically despite the fact that both originate from Napa.<sup>[3](https://jinyoung.xyz/thoughts/on-curiosity/#fn3)</sup>
+Think of it like wine, whereby a Chardonnay produced in a multigenerational, family-owned vineyard in Napa Valley sells for more than an unassuming ["two buck chuck"](https://en.wikipedia.org/wiki/Charles_Shaw_wine); ironically despite the fact that both originate from Napa.<sup><a class="footnote-body" target="_self" href="#fnref3" id="fnref3">[3]</a></sup>
 
-Economists have a term for this phenomenon, namely **value added**.<sup>[4](https://jinyoung.xyz/thoughts/on-curiosity/#fn4)</sup>
+Economists have a term for this phenomenon, namely **value added**.<sup><a class="footnote-body" target="_self" href="#fnref4" id="fnref4">[4]</a></sup>
 
 Value added serves to illustrate how the rich cultural narratives of the multigenerational wine contribute to its perceived behavioural economics-driven brand value.
 
@@ -51,15 +51,15 @@ it's called the [New York C Price](https://ycharts.com/indicators/new_york_arabi
 
 This figure, hereby referred to as the "C", operates like any other [stock futures](https://seekingalpha.com/article/4437307-what-are-stock-market-futures) in the financial markets.
 
-*Sidenote: agricultural futures<sup>[5](https://jinyoung.xyz/thoughts/on-curiosity/#fn5)</sup>, in particular, tend to exhibit high volatility in the stock market, with the "C" being a [poignant example](https://www.foodsecurityportal.org/).*
+*Sidenote: agricultural futures<sup><a class="footnote-body" target="_self" href="#fnref5" id="fnref5">[5]</a></sup>, in particular, tend to exhibit high volatility in the stock market, with the "C" being a [poignant example](https://www.foodsecurityportal.org/).*
 
-Seasoned coffee traders understand that the "C" is an inappropriate proxy when negotiating prices of green coffee at origin.<sup>[6](https://jinyoung.xyz/thoughts/on-curiosity/#fn6)</sup>
+Seasoned coffee traders understand that the "C" is an inappropriate proxy when negotiating prices of green coffee at origin.<sup><a class="footnote-body" target="_self" href="#fnref6" id="fnref6">[6]</a></sup>
 
 As I briefly touched on it earlier, this is because the "C" has failed to keep up with the ever-increasing cost of coffee production—
 
 and this is especially true for **specialty coffee**.
 
-Specialty coffee is a **value added** product which, by its definition<sup>[7](https://jinyoung.xyz/thoughts/on-curiosity/#fn7)</sup>, distinguishes itself from commodity coffee and its "C" adjacent valuation.
+Specialty coffee is a **value added** product which, by its definition<sup><a class="footnote-body" target="_self" href="#fnref7" id="fnref7">[7]</a></sup>, distinguishes itself from commodity coffee and its "C" adjacent valuation.
 
 But what exactly is specialty coffee?
 
@@ -81,7 +81,7 @@ With my growing understanding, I dove deeper into this work and, along the way, 
 
 To brainstorm with coffee producers on ways to negotiate more equitable rates for their harvest, I traveled to Guatemala with  colleagues from the business school to host a managerial accounting and marketing [workshop](https://www.youtube.com/watch?v=41O5mTJ_tnU&t=15s).
 
-Shortly after, [I headed to Tanzania](https://drive.google.com/file/d/13skTHbeOnTvYvPPq2eBlGeugpEM2kCSu/view?usp=sharing) to explore the growing public/private sector investments in its emerging specialty scene; studying the country's shift from socialist cooperatives<sup>[8](https://jinyoung.xyz/thoughts/on-curiosity/#fn8)</sup> to smallholder farms and direct trade.
+Shortly after, [I headed to Tanzania](https://drive.google.com/file/d/13skTHbeOnTvYvPPq2eBlGeugpEM2kCSu/view?usp=sharing) to explore the growing public/private sector investments in its emerging specialty scene; studying the country's shift from socialist cooperatives<sup><a class="footnote-body" target="_self" href="#fnref8" id="fnref8">[8]</a></sup> to smallholder farms and direct trade.
 
 Here are some [photos](https://photos.app.goo.gl/phhvnWo5731pDw8J9) from those trips.
 
@@ -95,18 +95,18 @@ The world is a playground for the curious, and I hope to continue to shape my li
 
 **Footnotes**
 
-<sup>1</sup> Coffee prices in its [largest end market](https://fred.stlouisfed.org/graph/?g=Ye1N). <a target="_self" href="#fnref1">↩︎</a>
+<sup>1</sup> Coffee prices in its [largest end market](https://fred.stlouisfed.org/graph/?g=Ye1N). <a target="_self" href="#fnref1" text-decoration="none">↩︎</a>
 
-<sup>2</sup> More on the [historically](http://www.ico.org/documents/cy2015-16/icc-117-6e-economic-sustainability.pdf?utm_source=ICO+Public+List&utm_campaign=1f5939c2cf-6th-Forum-Coffee-Sector-Finance-22Aug16-PR&utm_medium=email&utm_term=0_61b9999858-1f5939c2cf-246084033&mc_cid=1f5939c2cf) [high](https://dailycoffeenews.com/2019/05/30/the-cost-of-financially-sustainable-coffee-production-a-study-by-fair-trade-usa-and-cornell-university/) cost of coffee production.[↩︎](https://www.jinyoung.xyz/thoughts/on-curiosity/#fnref2)
+<sup>2</sup> More on the [historically](http://www.ico.org/documents/cy2015-16/icc-117-6e-economic-sustainability.pdf?utm_source=ICO+Public+List&utm_campaign=1f5939c2cf-6th-Forum-Coffee-Sector-Finance-22Aug16-PR&utm_medium=email&utm_term=0_61b9999858-1f5939c2cf-246084033&mc_cid=1f5939c2cf) [high](https://dailycoffeenews.com/2019/05/30/the-cost-of-financially-sustainable-coffee-production-a-study-by-fair-trade-usa-and-cornell-university/) cost of coffee production.<a target="_self" href="#fnref2" text-decoration="none">↩︎</a>
 
-<sup>3</sup> Not to dismiss quantifiable differences. [↩︎](https://www.jinyoung.xyz/thoughts/on-curiosity/#fnref3)
+<sup>3</sup> Not to dismiss quantifiable differences. <a target="_self" href="#fnref3" text-decoration="none">↩︎</a>
 
-<sup>4</sup> More on [value added](https://www.investopedia.com/terms/v/valueadded.asp). [↩︎](https://www.jinyoung.xyz/thoughts/on-curiosity/#fnref4)
+<sup>4</sup> More on [value added](https://www.investopedia.com/terms/v/valueadded.asp). <a target="_self" href="#fnref4" text-decoration="none">↩︎</a>
 
-<sup>5</sup> Agricultural futures are also known as [soft commodities](https://www.investopedia.com/terms/s/softcommodity.asp#:~:text=Understanding%20Soft%20Commodities&text=Due%20to%20the%20uncertainties%20of,more%20volatile%20than%20other%20futures.). [↩︎](https://www.jinyoung.xyz/thoughts/on-curiosity/#fnref5)
+<sup>5</sup> Agricultural futures are also known as [soft commodities](https://www.investopedia.com/terms/s/softcommodity.asp#:~:text=Understanding%20Soft%20Commodities&text=Due%20to%20the%20uncertainties%20of,more%20volatile%20than%20other%20futures.). <a target="_self" href="#fnref5" text-decoration="none">↩︎</a>
 
-<sup>6</sup> 'Green coffee' (ie. pre-roasted beans) highlights the intricacies of coffee's supply chain, such as [FOB](https://youtu.be/s_8-s8wqhx4?t=34). [↩︎](https://www.jinyoung.xyz/thoughts/on-curiosity/#fnref6)
+<sup>6</sup> 'Green coffee' (ie. pre-roasted beans) highlights the intricacies of coffee's supply chain, such as [FOB](https://youtu.be/s_8-s8wqhx4?t=34). <a target="_self" href="#fnref6" text-decoration="none">↩︎</a>
 
-<sup>7</sup> More on the specialty coffee [definition](https://static1.squarespace.com/static/584f6bbef5e23149e5522201/t/61656536b3ef6570d80794cc/1634035009273/Attributes+Framework+Whitepaper+2021+-+Release+1.2+Reduced.pdf). [↩︎](https://www.jinyoung.xyz/thoughts/on-curiosity/#fnref7)
+<sup>7</sup> More on the specialty coffee [definition](https://static1.squarespace.com/static/584f6bbef5e23149e5522201/t/61656536b3ef6570d80794cc/1634035009273/Attributes+Framework+Whitepaper+2021+-+Release+1.2+Reduced.pdf). <a target="_self" href="#fnref7" text-decoration="none">↩︎</a>
 
-<sup>8</sup> More on [Tanzania's history](https://web.archive.org/web/20090903224807/http://www.usaid.gov/stories/tanzania/cs_tanzania_coffee.html). [↩︎](https://www.jinyoung.xyz/thoughts/on-curiosity/#fnref8)
+<sup>8</sup> More on [Tanzania's history](https://web.archive.org/web/20090903224807/http://www.usaid.gov/stories/tanzania/cs_tanzania_coffee.html). <a target="_self" href="#fnref8" text-decoration="none">↩︎</a>
