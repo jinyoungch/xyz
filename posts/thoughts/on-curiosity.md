@@ -17,7 +17,7 @@ A few years ago, I worked as a research assistant for a professor named [Peter R
 
 Peter's research is fascinating:
 
-**what explains the gap between the prices we pay for coffee<sup>[1](#fn1)</sup> and the compensation of its farmers?**
+**what explains the gap between the prices we pay for coffee<sup><a href="#fn1">1</a></sup> and the compensation of its farmers?**
 
 Peter found that a big part of why this gap exists has a lot to do with the farmers' lack of awareness— specifically with regards to their coffee's [objective market value](https://youtu.be/Vw2FlVV3N3c?t=130).
 
