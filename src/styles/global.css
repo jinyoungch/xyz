@@ -9,7 +9,7 @@
   --black-grey: #222;
   --grey: #716a66;
   --foreground: var(--black);
-  --footnote-green: #3CA68DE8;
+  --footnote-green: #227a66e8;
   --midground: var(--black-grey);
   --background: var(--white);
   --linkedin: #5f789e;
@@ -220,6 +220,7 @@ blockquote {
 .footnote-link-body, .footnote-link-foot {
   color: var(--footnote-green);
   text-decoration: none;
+  font-size: 0.85rem;
 }
 
 @media only screen and (max-width: 500px) {
@@ -247,6 +248,9 @@ blockquote {
     font-size: 1rem;
   }
 
+  .footnote-link-body, .footnote-link-foot {
+    font-size: 0.75rem;
+  }
   code {
     font-size: 0.7rem;
   }
