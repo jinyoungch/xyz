@@ -218,7 +218,6 @@ blockquote {
 }
 
 .footnote-link-body, .footnote-link-foot {
-  color: var(--footnote-green);
   text-decoration: none;
   font-size: 0.85rem;
 }
