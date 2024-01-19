@@ -217,11 +217,11 @@ blockquote {
   color: var(--white);
 }
 
-.footnote-link-body {
+.footnote-link-body, .footnote-link-foot {
   font-size: 0.85rem;
 }
 
-.footnote-link-foot {
+sup.footnote-link-foot {
   text-decoration: none;
 }
 
