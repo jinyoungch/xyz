@@ -9,6 +9,7 @@
   --black-grey: #222;
   --grey: #716a66;
   --foreground: var(--black);
+  --footnote-green: #3CA68DE8;
   --midground: var(--black-grey);
   --background: var(--white);
   --linkedin: #5f789e;
@@ -214,6 +215,11 @@ blockquote {
 .thoughtsPostPersonalTag {
   background-color: var(--thoughts);
   color: var(--white);
+}
+
+.footnote-link-body, .footnote-link-foot {
+  color: var(--footnote-green);
+  text-decoration: none;
 }
 
 @media only screen and (max-width: 500px) {
