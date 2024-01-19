@@ -95,7 +95,7 @@ The world is a playground for the curious, and I hope to continue to shape my li
 
 **Footnotes**
 
-<sup>1</sup> Coffee prices in its [largest end market](https://fred.stlouisfed.org/graph/?g=Ye1N). [↩︎](#fnref1)
+<sup>1</sup> Coffee prices in its [largest end market](https://fred.stlouisfed.org/graph/?g=Ye1N). <a name="fn1">↩︎</a>
 
 <sup>2</sup> More on the [historically](http://www.ico.org/documents/cy2015-16/icc-117-6e-economic-sustainability.pdf?utm_source=ICO+Public+List&utm_campaign=1f5939c2cf-6th-Forum-Coffee-Sector-Finance-22Aug16-PR&utm_medium=email&utm_term=0_61b9999858-1f5939c2cf-246084033&mc_cid=1f5939c2cf) [high](https://dailycoffeenews.com/2019/05/30/the-cost-of-financially-sustainable-coffee-production-a-study-by-fair-trade-usa-and-cornell-university/) cost of coffee production.[↩︎](https://www.jinyoung.xyz/thoughts/on-curiosity/#fnref2)
 
