@@ -1,6 +1,6 @@
 ---
 title: link in a bit
-date: sep 24 2021
+date: 2021-09-24
 stack: React.js, Chrome APIs
 hackathon: no
 live_demo: https://github.com/jinyoungch0i/LinkInABit

@@ -1,6 +1,6 @@
 ---
 title: checkedin
-date: feb 07 2021
+date: 2021-02-07
 stack: HTML/CSS, JavaScript, Day.js
 hackathon: no
 live_demo: https://jinyoungch0i.github.io/checkedin./public/

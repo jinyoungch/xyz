@@ -1,6 +1,6 @@
 ---
 title: bluetooth debugger
-date: mar 31 2021
+date: 2021-03-31
 stack: Bash, Node, Python
 hackathon: no
 live_demo: https://github.com/jinyoungch0i/mac_bluetooth_debugger
