@@ -23,7 +23,7 @@ This is the place that was my homebase during the summer of 2018, where I took u
 
 And my decision to live here for the next six months is my deliberate attempt to reconnect with a place that is so dear to my identity. 
 
-The Southern Appalachians are where I had finally become comfortable with my [self-identity](https://www.facebook.com/photo.php?fbid=1752903158112310&set=t.100001779277141&type=3) two years ago, having lived as a foreigner of other's cultures for more than a decade. 
+The Southern Appalachians are where I had finally become comfortable with my [self-identity](https://photos.app.goo.gl/MDUQKSWjVAtoTZHPA) two years ago, having lived as a foreigner of other's cultures for more than a decade. 
 
 It's really come full circle.
 
