@@ -40,7 +40,7 @@ export default function Index() {
             StackOverflow
           </a>
           {' '}and{' '}
-          <a href="https://github.com/jinyoungch0i" className="github">
+          <a href="https://github.com/theJYC" className="github">
             GitHub
           </a>
           .
