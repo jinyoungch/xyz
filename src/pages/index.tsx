@@ -6,7 +6,7 @@ import profilePhoto from '../../public/jeju.jpeg'
 
 export default function Index() {
   return (
-    <Layout siteTitle="jinyoung">
+    <Layout siteTitle="JYC">
       <div className="center-photo">
         <Image
           className="profile-photo"
@@ -24,24 +24,24 @@ export default function Index() {
         , and <a className="strava" href="https://www.strava.com/athletes/24642494">cyclist</a>
         .
         </p> */}
-        <p>i {' '}
+        <p>I {' '}
           <Link href="/thoughts">
             <a className="thoughts">write</a>
           </Link>{' '}
-          to live with intention, and i build tools with{' '}
+          to live with intention, and I build tools with{' '}
           <Link href="/code">
             <a className="dev">code</a>
           </Link>
           .
         </p>
         <p>
-          my work can be found on{' '}
+          My work can be found on{' '}
           <a href="https://stackoverflow.com/users/14270947/jinyoungch0i?tab=questions&sort=newest" className="stackoverflow">
-            stackoverflow
+            StackOverflow
           </a>
           {' '}and{' '}
           <a href="https://github.com/jinyoungch0i" className="github">
-            github
+            GitHub
           </a>
           .
         </p>
