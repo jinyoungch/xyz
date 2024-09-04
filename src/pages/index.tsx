@@ -2,11 +2,11 @@ import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Layout } from '../components';
-import profilePhoto from '../../public/shot-by-reno.jpeg'
+import profilePhoto from '../../public/jinyoung.jpeg'
 
 export default function Index() {
   return (
-    <Layout siteTitle="JYC">
+    <Layout siteTitle="jinyoung">
       <div className="center-photo">
         <Image
           className="profile-photo"
