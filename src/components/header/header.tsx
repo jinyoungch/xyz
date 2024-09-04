@@ -25,7 +25,7 @@ export default function Header({ title = '' }) {
       ) : (
         <Link href="/">
           <a>
-            <h1>JYC</h1>
+            <h1>jinyoung</h1>
           </a>
         </Link>
       )}
