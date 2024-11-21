@@ -12,8 +12,8 @@ export default function Index() {
           className="profile-photo"
           src={profilePhoto}
           alt="jin young standing in a forest in jeju, south korea"
-          width={313}
-          height={313}
+          width={209}
+          height={209}
         />
       </div>
       <main id="biography">
