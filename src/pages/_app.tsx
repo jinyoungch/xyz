@@ -7,7 +7,7 @@ import '../styles/syntax.css';
 
 export default function MyApp({ Component, pageProps }) {
   return (
-    <ThemeProvider defaultTheme="light" disableTransitionOnChange>
+    <ThemeProvider defaultTheme="dark" disableTransitionOnChange>
       <Head>
         <meta charSet="utf-8" />
         <meta name="author" content="jinyoung" />
