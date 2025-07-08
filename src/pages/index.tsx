@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Layout } from '../components';
-import profilePhoto from '../../public/brasil.jpg'
+import profilePhoto from '../../public/headshot.jpeg'
 
 export default function Index() {
   return (
@@ -11,7 +11,7 @@ export default function Index() {
         <Image
           className="profile-photo"
           src={profilePhoto}
-          alt="jin young standing in a forest in jeju, south korea"
+          alt="jin young headshot courtesy of farsai"
           width={209}
           height={209}
         />
