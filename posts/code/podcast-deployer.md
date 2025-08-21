@@ -6,4 +6,4 @@ hackathon: false
 live_demo: https://github.com/jinyoungch/podcast-deployer
 ---
 
-self-hosted podcast deployer.
+self-hosted podcast feed generator.
