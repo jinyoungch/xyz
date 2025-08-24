@@ -42,9 +42,16 @@ export async function getStaticProps() {
       };
     });
 
+    const uniquePosts = data.reduce((acc, post) => {
+      if (!acc.find(p => p.slug === post.slug)) {
+        acc.push(post);
+      }
+      return acc;
+    }, []);
+
     //this return is where posts are sorted according to latest to earliest:
-    return data.sort((a, b) => new Date(b.date) - new Date(a.date));
-  })(require.context('../../../posts/thoughts', true, /\.md$/));
+    return uniquePosts.sort((a, b) => new Date(b.date) - new Date(a.date));
+  })(require.context('../../../posts/thoughts', false, /\.md$/));
 
   return {
     props: {
