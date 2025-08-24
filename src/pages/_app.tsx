@@ -20,6 +20,7 @@ export default function MyApp({ Component, pageProps }) {
         <meta property="og:title" content="jinyoung" />
         <meta property="og:description" content="enjoying the passage of time." />
         <meta name="description" content="enjoying the passage of time." />
+        <meta name="robots" content="noindex, nofollow" />
         {/* <meta property="og:image" content="public/jinyoung.jpeg" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" /> */}
