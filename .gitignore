@@ -20,6 +20,9 @@
 .env*
 todo.md
 
+# essays
+posts/thoughts/drafts
+
 # debug
 npm-debug.log*
 yarn-debug.log*
